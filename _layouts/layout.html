@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="keywords" content="tom natt"/>
-    <meta name="description" content="homepage of Tom Natt's site"/>
+    <meta name="keywords" content="gareth gwynn"/>
+    <meta name="description" content="{{ page.description }}"/>
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
     {% css_asset_tag global %}
@@ -13,7 +13,19 @@
 <body>
 
     <header class="row">
-        <h1>This is the title</h1>
+        <div class="small-5 columns">
+            <h1>GarethGwynn.com</h1>
+        </div>
+        <hr>
+        <nav class="small-8 columns">
+            <ul class="inline-list">
+                <li><a href="/">Home</a></li>
+                <li><a href="/biog/">Biog</a></li>
+                <li><a href="/podcasts/">Podcasts &amp; Videos</a></li>
+                <li><a href="/links/">Links</a></li>
+                <li><a href="/contact/">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     
     <main class="row">
@@ -21,7 +33,11 @@
     </main>
 
     <footer class="row">
-        <h6>And a little footer</h6>
+        <hr>
+        <ul class="right inline-list footer-list">
+            <li><a href="http://twitter.com/garethgwynn">Gareth on Twitter</a></li>
+            <li><a href="http://garethgwynn.blogspot.com/">Gareth's blog</a></li>
+        </ul>
     </footer>
         
 </body>
