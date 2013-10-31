@@ -1,5 +1,6 @@
 ---
 layout: layout
+description: Biography of Gareth Gwynn
 title: Biography of Gareth Gwynn
 ---
 
