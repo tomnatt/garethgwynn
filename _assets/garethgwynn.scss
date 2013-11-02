@@ -42,6 +42,5 @@
 @import "../_foundation/scss/foundation/components/tooltips";
 @import "../_foundation/scss/foundation/components/dropdown";
 
-main {
-    #background-color: yellow;
-}
+// import site scss
+@import "_garethsite.scss"

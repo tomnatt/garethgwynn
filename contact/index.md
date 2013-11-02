@@ -18,3 +18,4 @@ although for any comments about the website, its programming and all that sort o
 technical stuff, you're are best going to 
 [garethssite@tomnatt.com](mailto:garethssite@tomnatt.com).
 
+The background is from [this site](http://www.pawfal.org/) and is used under the [Creative Commons license](http://creativecommons.org/licenses/by-sa/2.0/uk/).
