@@ -11,7 +11,7 @@ I've worked on over the last year or so. I'll use the blog on the front page
 to flag up anything that might appear on iPlayer, but these are links to bits 
 and bobs that won't expire after only 7 days!
 
-## Sunday Morning Show . BBC Radio Wales
+## Sunday Morning Show - BBC Radio Wales
 
 I present a regular Sunday morning show on BBC Radio Wales. A
 link to the latest edition on iPlayer is available from the show's
