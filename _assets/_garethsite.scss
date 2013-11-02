@@ -1,8 +1,51 @@
-body {
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+$spacer: 15px;
+$block-sidepadding: 30px;
+
+@mixin box-definitions {
+    border-radius: 5px;
+    background: rgb(245,250,250);
+    border: 1px solid black;
+}
+
+html { 
+
     background: url(/images/background.png) repeat scroll 0 0 #C2C2A3;
+    height: 100%;
 
-    h1 { 
-        color: red;
+    body {
+
+        background: transparent;
+        padding: $spacer 0;
+        a:hover {
+            text-decoration: underline;
+        }
+
+        header {
+            @include box-definitions;            
+            padding: 10px $block-sidepadding 0;
+            &.row {
+                margin-bottom: $spacer;
+            }
+        }
+
+        main {
+            @include box-definitions;
+            padding: 10px $block-sidepadding;
+            height: 100%;
+            ul {
+                list-style-type: circle;
+            }
+        }
+
+        footer {
+            @include box-definitions;
+            padding: 15px $block-sidepadding 0;
+            &.row {
+                margin-top: $spacer;
+            }
+        }
     }
-
 }

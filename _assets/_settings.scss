@@ -53,13 +53,13 @@ $default-float: left;
 
 $body-bg: #c2c2a3;
 // $body-font-color: #222;
-// $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-font-family: "Open sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
 // Font-smoothing
 
-// $font-smoothing: antialiased;
+$font-smoothing: antialiased;
 
 // Text direction settings
 
@@ -160,7 +160,7 @@ $body-bg: #c2c2a3;
 
 // Control header font styles
 
-// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-family: "Fredericka the Great", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #222;
@@ -171,12 +171,12 @@ $body-bg: #c2c2a3;
 
 // Control header font sizes
 
-// $h1-font-size: emCalc(44);
-// $h2-font-size: emCalc(37);
+$h1-font-size: emCalc(36);
+$h2-font-size: emCalc(27);
 // $h3-font-size: emCalc(27);
 // $h4-font-size: emCalc(23);
 // $h5-font-size: emCalc(18);
-// $h6-font-size: 1em;
+$h6-font-size: emCalc(40);
 
 // Control how subheaders are styled.
 
@@ -224,7 +224,7 @@ $body-bg: #c2c2a3;
 
 // Style lists
 
-// $list-style-position: outside;
+$list-style-position: inside;
 // $list-side-margin: 0;
 // $list-nested-margin: emCalc(20);
 // $definition-list-header-weight: bold;
