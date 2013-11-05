@@ -8,12 +8,3 @@ group :development do
       ignore /^_site/
     end
 end
-
-group :compile do
-    guard :compass, configuration_file: '_config/compass_config.rb', compile_on_start: true
-
-    guard "jekyll-plus", config: '_config/jekyll_config.yml', serve: false do
-      watch /.*/
-      ignore /^_site/
-    end
-end
