@@ -31,7 +31,7 @@ html {
             }
         }
 
-        main {
+        div.main {
             @include box-definitions;
             padding: 10px $block-sidepadding;
             height: 100%;
