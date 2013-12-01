@@ -1,5 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400);
 @import url(//fonts.googleapis.com/css?family=Eagle+Lake);
+@import url(//fonts.googleapis.com/css?family=Permanent+Marker);
 
 $spacer: 15px;
 $block-sidepadding: 30px;
@@ -28,6 +29,9 @@ html {
             padding: 10px $block-sidepadding 0;
             &.row {
                 margin-bottom: $spacer;
+            }
+            h6 {
+                letter-spacing: 2px;
             }
         }
 
