@@ -5,59 +5,58 @@ $spacer: 15px;
 $block-sidepadding: 30px;
 
 @mixin box-definitions {
-    border-radius: 5px;
-    background: #D7EDF7;
-    box-shadow: 0 0 5px #000000;
+  border-radius: 5px;
+  background: #D7EDF7;
+  box-shadow: 0 0 5px #000000;
 }
 
-html { 
+html {
 
-    background: url(/images/background.png) repeat scroll 0 0 #C2C2A3;
-    height: 100%;
+  background: url(/images/background.png) repeat scroll 0 0 #C2C2A3;
+  height: 100%;
 
-    body {
+  body {
 
-        background: transparent;
-        padding: $spacer 0;
-        a:hover {
-            text-decoration: underline;
-        }
-
-        header {
-            @include box-definitions;            
-            padding: 10px $block-sidepadding 0;
-            &.row {
-                margin-bottom: $spacer;
-            }
-            h6 {
-                letter-spacing: 2px;
-                margin-bottom: 0;
-            }
-            p {
-                margin-left: 10px;
-                color: #222;
-                margin-bottom: 10px;
-            }
-        }
-
-        div.main {
-            @include box-definitions;
-            padding: 10px $block-sidepadding;
-            height: 100%;
-            ul {
-                list-style-type: circle;
-            }
-            .centre {
-                text-align: center;
-            }
-        }
-
-        footer {
-            @include box-definitions;
-            padding: 15px $block-sidepadding 0;
-            &.row {
-                margin-top: $spacer;
-            }
-        }
+    background: transparent;
+    padding: $spacer 0;
+    a:hover {
+      text-decoration: underline;
     }
+
+    header {
+      @include box-definitions;
+      padding: 10px $block-sidepadding 0;
+      &.row {
+        margin-bottom: $spacer;
+      }
+      h6 {
+        letter-spacing: 2px;
+        margin-bottom: 0;
+      }
+      p {
+        margin-left: 10px;
+        color: #222;
+        margin-bottom: 10px;
+      }
+    }
+
+    div.main {
+      @include box-definitions;
+      padding: 10px $block-sidepadding;
+      ul {
+        list-style-type: circle;
+      }
+      .centre {
+        text-align: center;
+      }
+    }
+
+    footer {
+      @include box-definitions;
+      padding: 15px $block-sidepadding 0;
+      &.row {
+        margin-top: $spacer;
+      }
+    }
+  }
 }
