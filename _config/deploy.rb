@@ -40,11 +40,12 @@ task :deploy do
     invoke :'git:clone'
     invoke :'deploy:link_shared_paths'
     invoke :'bundle:install'
-    # build
-    invoke :jekyll
     # cleanup
     invoke :'deploy:cleanup'
   end
+
+  # build
+  invoke :jekyll
 end
 
 desc "Syncs the audio with the server"
