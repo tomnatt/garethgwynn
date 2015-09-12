@@ -10,7 +10,7 @@ On this page, you'll find links to some of the radio shows, podcasts and videos 
 
 ## Little Book Documentaries - BBC Radio 4
 
-I have presented two documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics. The first, "[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category. The second, "[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2015 and continues to cost me a fortune in records. Both shows are still available on the BBC Radio 4 website.
+I have presented two documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics. The first, "[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category. The second, "[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records. Both shows are still available on the BBC Radio 4 website.
 
 ## Sunday Morning Show - BBC Radio Wales
 
@@ -31,10 +31,6 @@ I have written for The Now Show regularly since 2010 and appeared on the show it
 Having written gags for The News Quiz since 2009, I got to make this montage for the end of Sandi Toksvig's final show. There are certainly worse ways to spend a day than listening to 9 years of News Quizzes. And then, once I was finished, I put all the master tapes in the wrong boxes to really screw things up for the next person who tries.
 
 <iframe width="400" height="500" frameborder="0"src="http://www.bbc.co.uk/programmes/p02vnmwc/player"></iframe>
-
-## Gareth Gwynn - Comedy Writer & Radio Presenter
-
-Audio / video from all shows is available on request.
 
 ## Gareth Gwynn's Twisted History Of BBC Wales - BBC Radio Wales
 
@@ -76,7 +72,7 @@ This one was mine.
 
 ## Do The Right Thing - Podcast
 
-Gareth Gwynn – Comedy Writer & Radio Presenter Audio/video from all shows is available on request. I was a panellist on Series 3, Episode 7 of this podcast - but make sure you listen to them all because they're great.
+I was a panellist on Series 3, Episode 7 of this podcast - but make sure you listen to them all because they're great.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/77091152&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 

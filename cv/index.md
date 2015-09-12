@@ -12,6 +12,9 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 
 | | |
 |----| ----|
+| The News Quiz | Writer, BBC Radio 4, 2008-15 |
+| The Now Show | Writer, BBC Radio 4, 2009-15 (cf. Performing Credits) |
+| Bull (Sitcom Series) | Writer, GOLD, 2015 |
 | Ankle Tag (Sitcom Pilot) | Writer, BBC Radio 2, 2015 |
 | Elis James' Guide To... | Writer, BBC Radio Wales, 2015 |
 | XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
@@ -94,7 +97,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
-| Phil & Alice's Comedy Night Development | Producer, BBC Radio 1, 2013 |
+| Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing) |
 | What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing) |
 | Jest A Minute with Rhod Gilbert (Series 2) | Producer, BBC Radio Wales, 2008 |
