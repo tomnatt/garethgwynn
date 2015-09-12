@@ -1,101 +1,122 @@
 ---
 layout: layout
-description: Biography of Gareth Gwynn
-title: Biography of Gareth Gwynn
+description: CV of Gareth Gwynn
+title: CV of Gareth Gwynn
 ---
 
-# Biog
+# CV
 
-Gareth Gwynn is a writer, presenter and radio producer, currently based in London.
+Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a 4Talent Award winner, a Celtic Media Award nominee, was one of the Radio Academy's "30 Under 30" for 2012 and is a former recipient of the BBC Radio Comedy department's writer's bursary.
 
-Gareth started his career at Bath University's student radio station, 1449AM URB, 
-where he won the Gold award for Best Comedy Show at the National Student Radio 
-Awards (hosted by BBC Radio 1). On leaving University, Gareth became a presenter at 
-the commercial radio station 106.3 Bridge FM.
+## Writing
 
-In 2007, Gareth secured a pilot on BBC Radio 7 which led to him joining the writing 
-team for BBC Radio 4's "Listen Against" and contributing to the BBC Radio 7 sketch 
-show "Play and Record". He was also part of the initial presenting line-up of 107.9 
-Afan FM. It was during this time that Gareth won the 4Talent award for Radio 
-Presentation, in a scheme supported by Channel 4 and judged by Channel 4 Radio.
+| | |
+|----| ----|
+| Ankle Tag (Sitcom Pilot) | Writer, BBC Radio 2, 2015 |
+| Elis James' Guide To... | Writer, BBC Radio Wales, 2015 |
+| XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
+| Here Be Dragons | Writer / Script Editor, BBC Radio Wales, 2013-15 |
+| The Vote Now Show (Election Specials) | Writer, BBC Radio 4, 2010, 2015 |
+| Best Behaviour | Writer, BBC Radio 4, 2015 |
+| Sketchland Script | Editor, BBC Two Scotland, 2015 |
+| XFM/Heart On-Air Promotion Adverts | Writer, XFM/Heart - This Is Global, 2015 |
+| Have I Got News For You | Writer, BBC One, 2014 |
+| Passing On (Sitcom Series) | Writer, BBC Radio Wales, 2014 |
+| Elis James' Pantheon Of Heroes | Writer, BBC Radio Wales / BBC Radio 4Extra, 2012-14 |
+| Small Scenes | Writer, BBC Radio 4, 2013 |
+| The Cariad Show (TV Pilot) | Writer, BBC Three / BBC Online, 2013 |
+| Social Club FM (Sitcom Series) | Writer, BBC Radio Wales, 2011-13 |
+| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
+| Those That Can't (Sitcom Series) (Series 4) | Writer, BBC Radio Wales, 2012 |
+| Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
+| The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
+| My Animals And Other Families (Non-TX Pilot) | Writer, BBC Radio 4, 2012 |
+| Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
+| Listen Against | Writer / Researcher, BBC Radio 4, 2007-11 |
+| Show & Tell | Writer, E4, 2011 |
+| Reception (Broadcast Pilot) | Script Editor / Writer, BBC Radio 2, 2011 |
+| The News Quiz Extra | Writer / Contributor, BBC Radio 4 Extra, 2011 |
+| The Now Show Extra | Writer, BBC Radio 4 Extra, 2011 |
+| Jon Holmes' Mob Rule | Writer, BBC Radio 5 Live, 2011 |
+| The Colossal Machine (Non-TX Pilot) | Script Editor, BBC Radio 1, 2011 |
+| The Armstrong & Miller Book | Writer, Sphere Publishing, 2010 |
+| The Armstrong & Miller Show (Series 3) | Writer, BBC One, 2010 |
+| Antiquity (Sitcom Pilot) | Writer, BBC Radio 4, 2010 |
+| The Jason Byrne Show (Series 3) | Writer, BBC Radio 2, 2010 |
+| Newsbeast (Taster Script) | Writer, CBBC, 2010 |
+| Dilemma (Pilot) | Writer, BBC Radio 4, 2010 |
+| What's The Story? (Series 2) | Script Editor, BBC Radio Wales, 2010 (cf. Production Credits) |
+| Laura Solon: Talking And Not Talking | Writer, BBC Radio 4, 2009 |
+| I Guess That's Why They Call It The News | Writer, BBC Radio 4, 2009 |
+| Laurence & Gus - Hearts & Minds | Writer, BBC Radio 4, 2009 |
+| Look Away Now | Writer, BBC Radio 4, 2009 |
+| I'm Spartacus (Broadcast Pilot) | Writer, BBC Radio 2, 2009 |
+| Broken Arts | Writer, BBC Radio 4, 2009 |
+| The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
+| Tilt | Writer, BBC Radio 7, 2008 |
 
-In November 2007, Gareth joined the newly launched "XFM South Wales" as producer 
-of "The Roop and Tom Breakfast Show". Following the station's closure, Gareth became 
-a producer for BBC Radio Wales working with Rhod Gilbert on both his Saturday morning 
-show and the second series of the panel game "Jest A Minute". During this time Gareth 
-continued to write for the BBC Radio Comedy department on "Tilt", "Listen Against" 
-and "The News Quiz" as well as reuniting with Roop and Tom on "B.A.D. Radio", a sketch 
-show for GWR Bath.
+Gareth has also assisted a number of comics prepare for panel shows including Mock The Week (BBC One, 2011-4), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
-In 2009, Gareth was appointed as contract writer for the BBC Radio Comedy department. As 
-a recipient of the department's annual writer's bursary, Gareth worked across a wide 
-range of BBC Radio Comedy programming, including "The Now Show" and "The News Quiz" 
-(writing for the show throughout 2009, the year in which it was nominated for a Sony 
-Radio Award).
+## Presenting / Performing
 
-On completing the bursary, Gareth joined the main writing team for Radio 4's flagship 
-comedy show for the 2010 general election, "The Vote Now Show". He also worked as script 
-editor and Producer for Tidy Productions on the BBC Radio Wales panel game "What's 
-The Story?" and acted as script editor on the open-door sketch show "Newsjack" for 
-BBC Radio 7.
+| | |
+|----| ----|
+| BBC Radio Wales Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-15 |
+| The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-15 |
+| BBC Radio Wales Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
+| Gareth Gwynn's Little Book Of Welsh Rock | Writer / Presenter, BBC Radio 4, 2015 |
+| Gareth Gwynn's Little Book Of Welsh Independence | Writer / Presenter, BBC Radio 4, 2014 |
+| Gareth Gwynn's Twisted History Of Radio | Writer / Performer, Machynlleth Comedy Festival |
+| Gareth Gwynn's Twisted 2014 | Writer / Presenter, BBC Radio Wales, 2014 |
+| The Leak with Tom Price | Guest, BBC Radio Wales, 2014 |
+| Gareth Gwynn's Twisted History of BBC Wales | Writer / Presenter, BBC Radio Wales, 2014 |
+| The Now Show | Writer / Performer, BBC Radio 4, 2011-13 (cf. Writing Credits) |
+| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
+| What’s The Story? | Panellist, BBC Radio Wales, 2013 (cf. Production Credits) |
+| Do The Right Thing | Panellist, Podcast, 2013 |
+| Scramblecast - A Touchcast Demonstration | Writer / Performer, BBC Online, 2013 |
+| Parallel Lines | Radio Performer, Dirty Protest Theatre, 2013 |
+| Film Fandango | Guest, Absolute Radio Podcast, 2012 |
+| Nintendo TV News | Voice Over, Future Publishing / Nintendo Wii, 2010-11 |
+| Something Else | Panellist / Contributor, BBC Radio Wales, 2010 |
+| Papa’s Got A Brand New Wigbag | Writer / Performer, Edinburgh Fringe Festival, 2010 |
+| Too Late For Breakfast (Broadcast Pilot) | Panellist, BBC Radio 5 Live, 2009 |
+| B.A.D. Radio | Writer / Performer, GWR Bath, 2008 |
+| Funny Business | Performer, BBC 2 Wales, 2008 |
+| Play & Record | Writer / Performer, BBC Radio 7, 2007 |
+| BBC BackChat (Pilot) | Writer / Presenter, BBC Radio 7, 2007 |
+| Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
+| Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
-The second half of 2010 will see Gareth continue to write for both "The News Quiz" 
-and "The Now Show" as well as "The Jason Byrne Show" for BBC Radio 2 and "The Armstrong 
-And Miller Show" for BBC One. In August "Antiquity", a sitcom pilot written by Gareth 
-and John-Luke Roberts and starring Tim McInnerny, Nadia Kamil, Will Andrews and 
-Andrew Sachs, will be broadcast on BBC Radio 4.
+Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
-## Radio & TV credits
+## Radio Comedy Production
 
-* The News Quiz (Writer, BBC Radio 4, 2008-10)
-* The Now Show (Writer, BBC Radio 4, 2009-10)
-* Antiquity (Broadcast Sitcom Pilot) (Writer, BBC Radio 4)
-* Listen Against (Writer/Researcher, BBC Radio 4, 2007-10)
-* Something Else (Panellist/Contributor, BBC Radio Wales, 2010)
-* Newsjack (Writer/Script Editor, BBC Radio 7, 2009-10)
-* What's The Story? Series 2 (Script Editor/Producer, BBC Radio Wales, 2010)
-* The Vote Now Show (Writer, BBC Radio 4, 2010)
-* Russell Howard's Good News (Additional Material, BBC Three, 2010)
-* Laura Solon: Talking And Not Talking (Writer, BBC Radio 4, 2009)
-* I Guess That's Why They Call It The News (Writer, BBC Radio 4, 2009)
-* Look Away Now (Writer, BBC Radio 4, 2009)
-* Laurence And Gus - Hearts And Minds (Writer, BBC Radio 4, 2009)
-* Too Late For Breakfast (Pilot) (Panellist/Writer, BBC Radio 5 Live, 2009)
-* Boo Hoo - It's The News! (Writer/Presenter, Podcast, 2009)
-* I'm Spartacus (Pilot) (Writer, BBC Radio 2, 2009)
-* B.A.D. Radio (Writer/Performer, GWR Bath, 2008)
-* Jest A Minute with Rhod Gilbert (Producer, BBC Radio Wales, 2008)
-* The Rhod Gilbert Show (Stand-in Producer, BBC Radio Wales, 2008)
-* The Roop And Tom Breakfast Show (Producer, XFM South Wales, 2007-8)
-* Tilt (Writer, BBC Radio 7, 2008)
-* Funny Business (Performer, BBC 2W, 2008)
-* Play And Record (Writer/Performer, BBC Radio 7, 2007)
-* BBC BackChat (Writer/Presenter, BBC Radio 7, 2007)
-* Gareth Gwynn's Alternative Anthems (Presenter, Afan FM, 2007)
-* Gareth Gwynn's Big Night In (Writer/Presenter, 106.3 Bridge FM, 2006)
+| | |
+|----| ----|
+| Phil & Alice's Comedy Night Development | Producer, BBC Radio 1, 2013 |
+| Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing) |
+| What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing) |
+| Jest A Minute with Rhod Gilbert (Series 2) | Producer, BBC Radio Wales, 2008 |
+| The Rhod Gilbert Show | Stand-in Producer, BBC Radio Wales, 2008 (cf. Presenting) |
+| The Roop & Tom Breakfast Show | Producer, XFM South Wales, 2007-8 |
+
+Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
 ## Awards
 
-* 4Talent Awards 2007: Radio Presentation Award
-* BBC New Talent: Show Me The Funny 2007: Finalist
-* Funny Business 2007: Finalist
-* Laughing Horse New Act of the Year 2006: Semi-Finalist
-* Student Radio Awards 2004: Best Comedy: Gold Award Winner
+| | |
+|----| ----|
+| Celtic Media Festival - Best Documentary Nomination - "...Little Book Of Welsh Independence" | 2015 |
+| Radio Academy Bronze Award - Writer / Script Editor on Here Be Dragons | 2014 |
+| No. 6 on Western Mail’s 25 Home Grown Comedy Stars List | 2013 |
+| Radio Academy 30 Under 30 | 2012 |
+| Sony Radio Gold Award – Writer on The Jason Byrne Show | 2011 |
+| BBC Radio Comedy Department – Writer’s Bursary Recipient | 2009 / 10 |
+| 4Talent Awards: Radio Presentation Award - Gareth Gwynn's Alternative Anthems | 2007 |
+| BBC New Talent: Witty & Twisted: Finalist - BBC Backchat | 2007 |
+| Funny Business: Finalist | 2007 |
+| Student Radio Award: Best Comedy: Gold - Component Parts | 2004 |
+| Student Radio Award: Best Comedy: Silver - Because Fish Are Funny | 2003 |
 
-## Quotes
-
-> Gareth is forging a formidable comedic reputation.
-> <cite>TEN4 magazine</cite>
-
-> Gareth Gwynn, I thought, was very likable, very assured. 
-> I was very impressed... Had some great ideas... Hysterically funny, I thought.
-> <cite>Paul Schlesinger, Head of BBC Radio Entertainment and BBC New Talent judge</cite>
-
-> I certainly would like to hear more from this writer... You could hear his talent.
-> <cite>Helen Atkinson-Wood, actress and BBC New Talent judge</cite>
-
-> Gareth seemed to have a good range of styles to suit different situations. 
-> Quick witted and funny, he seemed to be in total control.
-> <cite>Student Radio Award Judges 2005</cite>
-
-
+Audio/video from all shows is available on request.
