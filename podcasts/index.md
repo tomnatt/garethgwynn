@@ -8,13 +8,21 @@ title: Podcasts and Videos of Gareth Gwynn
 
 On this page, you'll find links to some of the radio shows, podcasts and videos I've appeared in or worked on. I'll use the blog on the front page to flag up anything new, but these are links to bits and bobs that won't expire after only 30 days. Apologies in advance for any broken links - The internet is built on shifting sands.
 
+## Bull
+
+John-Luke Roberts and I created and wrote this sitcom for GOLD starring Robert Lindsay, Maureen Lipman, Naz Osmanoglu and Claudia Jessie. Here's a playlist which includes the trailer, a behind the scenes feature and some best-bits.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XSKzvDheaSo?list=PLyk_nLKHU9Qm8iSwLJc_5_QmEX4_tj0TH" frameborder="0" allowfullscreen></iframe>
+
+Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html), so do make sure you check it out.
+
 ## Little Book Documentaries - BBC Radio 4
 
 I have presented two documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics. The first, "[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category. The second, "[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records. Both shows are still available on the BBC Radio 4 website.
 
-## Sunday Morning Show - BBC Radio Wales
+## Sunday Afternoon Show - BBC Radio Wales
 
-I present a regular Sunday morning show on BBC Radio Wales (as well as other bits and bobs when people are away). A link to the last few editions of the show, plus some best-bits, are available on the [my BBC Radio iPlayer page](http://www.bbc.co.uk/programmes/b00wt6xy).
+I present a regular Sunday afternoon show on BBC Radio Wales (as well as other bits and bobs when people are away). A link to the last few editions of the show, plus some best-bits, are available on [my BBC Radio iPlayer page](http://www.bbc.co.uk/programmes/b00wt6xy).
 
 There are more best bits from the Sunday Show, various Saturday Shows and my "Twisted 2014" look back at the year on this Audioboom playlist.
 
@@ -40,7 +48,7 @@ In 2014, BBC Wales Television celebrated its fiftieth anniversary. To celebrate,
 
 ## The XFM Breakfast Show With Jon Holmes - XFM London
 
-From 2013-15 I devised features and contributed topical gags, fake news stories, one-liners and sketches to this daily breakfast show. Podcasts and best bits [can be found here](https://audioboom.com/channel/xfmbreakfastshow).
+From 2013-15 I devised features and contributed topical gags, fake news stories, one-liners and sketches to this daily breakfast show. Podcasts and best bits [can be found here](https://audioboom.com/playlists/1291232-xfm-breakfast-show).
 
 ## Passing On - BBC Radio Wales
 
