@@ -12,7 +12,7 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 
 | | |
 |----| ----|
-| The News Quiz | Writer, BBC Radio 4, 2008-15 |
+| The News Quiz | Writer, BBC Radio 4, 2008-16 |
 | The Now Show | Writer, BBC Radio 4, 2009-15 (cf. Performing Credits) |
 | Bull (Sitcom Series) | Writer, GOLD, 2015 |
 | Ankle Tag (Sitcom Pilot) | Writer, BBC Radio 2, 2015 |
@@ -64,10 +64,10 @@ Gareth has also assisted a number of comics prepare for panel shows including Mo
 
 | | |
 |----| ----|
-| BBC Radio Wales Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016 |
+| BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016 |
 | BBC Radio Wales Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-16 |
-| BBC Radio Wales Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
+| BBC Radio Wales Summer Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer / Presenter, BBC Radio 4, 2015 |
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer / Presenter, BBC Radio 4, 2014 |
 | Gareth Gwynn's Twisted History Of Radio | Writer / Performer, Machynlleth Comedy Festival |
