@@ -49,7 +49,7 @@ end
 
 desc 'Syncs the audio with the server'
 task :audio do
-  path = "#{fetch(:current_path)}"
+  path = "#{fetch(:deploy_to)}/#{fetch(:shared_path)}"
 
   system "rsync -az -e ssh #{fetch(:audio_source)}/afan/ #{fetch(:user)}@#{fetch(:domain)}:#{path}/afan/"
   system "rsync -az -e ssh #{fetch(:audio_source)}/demos/ #{fetch(:user)}@#{fetch(:domain)}:#{path}/demos/"
@@ -59,6 +59,6 @@ end
 
 desc 'Rebuild site'
 task :jekyll do
-  command "cd #{fetch(:current_path)}/current"
+  command "cd #{fetch(:deploy_to)}/current"
   command 'rake'
 end
