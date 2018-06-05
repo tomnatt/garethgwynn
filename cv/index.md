@@ -14,29 +14,39 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 |----| ----|
 | Ankle Tag (Sitcom Series)	| Writer, BBC Radio 2/BBC Radio 4, 2015-18 |
 | Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018 |
+| Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
-| The News Quiz | Writer, BBC Radio 4, 2008-16 |
-| The Now Show | Writer, BBC Radio 4, 2009-15 (cf. Performing Credits) |
+| We Need To Talk About… | Writer, Spotify, 2017-18 |
+| The Now Show | Writer, BBC Radio 4, 2009-18 (cf. Performing Credits) |
+| O'r Diwedd | Writer, S4C, 2016-18 (c.f. Production Credits) |
+| The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
+| The News Quiz | Writer, BBC Radio 4, 2008-17 |
+| Tony Law: 21st Century Adventurer (Sitcom Pilot) | Writer, BBC Radio 4, 2017 |
+| Please Hold (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2017 | 
+| The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
+| State Of The Nations | Writer, BBC Radio 4. 2016-17 |
+| Now The Twelfth Night Show | Writer, BBC Radio 4, 2017 |
+| The Coopers Verses The Rest (Sitcom Pilot) | Additional Material, BBC Two, 2016 |
+| Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
+| Elis James' Pantheon Of Heroes | Writer, BBC Radio Wales / BBC Radio 4Extra, 2012-16 |
+| Jonathan's Six Nations Quiz | Writer, BBC One Wales, 2016 |
 | Bull (Sitcom Series) | Writer, GOLD, 2015 |
-| Ankle Tag (Sitcom Pilot) | Writer, BBC Radio 2, 2015 |
-| Elis James' Guide To... | Writer, BBC Radio Wales, 2015 |
+| Elis James' Guide To Machynlleth | Writer, BBC Radio Wales, 2015 |
+| Beat The Intro (Pilot) | Writer, Audible Originals, 2015 |
+| Bridget Christie's Christmas List | Additional Material, BBC Radio 4, 2015 |
 | XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
+| Sketchland | Script Editor, BBC Two Scotland, 2015 |
 | Here Be Dragons | Writer / Script Editor, BBC Radio Wales, 2013-15 |
-| The Vote Now Show (Election Specials) | Writer, BBC Radio 4, 2010, 2015 |
 | Best Behaviour | Writer, BBC Radio 4, 2015 |
-| Sketchland Script | Editor, BBC Two Scotland, 2015 |
 | XFM/Heart On-Air Promotion Adverts | Writer, XFM/Heart - This Is Global, 2015 |
 | Have I Got News For You | Writer, BBC One, 2014 |
 | Passing On (Sitcom Series) | Writer, BBC Radio Wales, 2014 |
-| Elis James' Pantheon Of Heroes | Writer, BBC Radio Wales / BBC Radio 4Extra, 2012-14 |
 | Small Scenes | Writer, BBC Radio 4, 2013 |
-| The Cariad Show (TV Pilot) | Writer, BBC Three / BBC Online, 2013 |
 | Social Club FM (Sitcom Series) | Writer, BBC Radio Wales, 2011-13 |
 | I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
 | Those That Can't (Sitcom Series) (Series 4) | Writer, BBC Radio Wales, 2012 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
-| My Animals And Other Families (Non-TX Pilot) | Writer, BBC Radio 4, 2012 |
 | Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
 | Listen Against | Writer / Researcher, BBC Radio 4, 2007-11 |
 | Show & Tell | Writer, E4, 2011 |
@@ -49,7 +59,6 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 | The Armstrong & Miller Show (Series 3) | Writer, BBC One, 2010 |
 | Antiquity (Sitcom Pilot) | Writer, BBC Radio 4, 2010 |
 | The Jason Byrne Show (Series 3) | Writer, BBC Radio 2, 2010 |
-| Newsbeast (Taster Script) | Writer, CBBC, 2010 |
 | Dilemma (Pilot) | Writer, BBC Radio 4, 2010 |
 | What's The Story? (Series 2) | Script Editor, BBC Radio Wales, 2010 (cf. Production Credits) |
 | Laura Solon: Talking And Not Talking | Writer, BBC Radio 4, 2009 |
@@ -61,7 +70,7 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 | The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
 | Tilt | Writer, BBC Radio 7, 2008 |
 
-Gareth has also assisted a number of comics prepare for panel shows including Mock The Week (BBC One, 2011-4), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
+Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Presenting / Performing
 
