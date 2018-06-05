@@ -10,23 +10,8 @@ title: Gareth's links
 
 * [Blog](http://garethgwynn.blogspot.com/)
 * [Twitter](http://twitter.com/garethgwynn)
+* [Instagram](https://www.instagram.com/gareth_gwynn/)
+* [PBJ Webpage](www.pbjmanagement.co.uk/artists/gareth-gwynn)
 * [Site Webmaster - Tom Natt](http://www.tomnatt.com/)
 
-## Videos & Podcasts
-
-* [Boo Hoo - It's The News! Podcast Homepage](http://boohooitsthenews.libsyn.com/)
-* [XFM South Wales YouTube Page](http://www.youtube.com/xfmsouthwales)
-* [GWR Bath YouTube Page](http://www.youtube.com/gwrbath)
-* [And see the video page](/podcasts/)
-
-## Radio
-
-* [BBC Radio 4 Comedy](http://www.bbc.co.uk/radio4/programmes/genres/comedy)
-* [BBC Radio 7 Comedy](http://www.bbc.co.uk/radio7/programmes/genres/comedy)
-* [BBC Radio Wales](http://www.bbc.co.uk/radiowales)
-* [Heart Bath (formerly GWR Bath)](http://www.heartbath.co.uk)
-* [XFM](http://www.xfm.co.uk)
-* [Show Me the Funny / Witty And Twisted](http://www.bbc.co.uk/newtalent/showmethefunny/wittyandtwisted/finalists.shtml)
-* [Afan FM](http://www.afanfm.co.uk)
-* [Bridge FM](http://www.bridge.fm)
-* [1449AM URB](http://www.1449urb.co.uk)
+(There used to be a section here called "Radio" with links to the stations and podcastds I had worked on in the past. On logging-on to update it for the first time in a while I realised that 5 had changed their name, 2 had closed down and one had done both - so I'm going to slowly retire this section and replace it with something else).
