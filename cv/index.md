@@ -12,6 +12,9 @@ Gareth Gwynn is an experienced comedy writer, radio presenter and producer. He i
 
 | | |
 |----| ----|
+| Ankle Tag (Sitcom Series)	| Writer, BBC Radio 2/BBC Radio 4, 2015-18 |
+| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018 |
+| Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
 | The News Quiz | Writer, BBC Radio 4, 2008-16 |
 | The Now Show | Writer, BBC Radio 4, 2009-15 (cf. Performing Credits) |
 | Bull (Sitcom Series) | Writer, GOLD, 2015 |
