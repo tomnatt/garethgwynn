@@ -30,8 +30,8 @@ Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbulla
 
 Sue Perkins presents facts about animals, with assistance from Margaret Cabourn-Smith and Simon Kane, in this Audible Original series which I wrote with Gabby Hutchinson-Crouch, Jon Hunter.
 
-[Sue Perkins' Earpedia on Audible: Animals](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Animals-Audiobook/B0779GZQQ1?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=XYJ5TGRXXZS4NKX171YT&)
-[Sue Perkins' Earpedia on Audible: Plants](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Plants-Audiobook/B07CTRGBQB?ref=a_pd_Non-fi_c14_moreAuthors_0&pf_rd_p=e451f83d-9b5c-40e4-bc18-48e770df7327&pf_rd_r=TXGVQ9TZYK46B2EXE343&)
+Sue Perkins' Earpedia Series 1: [Animals](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Animals-Audiobook/B0779GZQQ1?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=XYJ5TGRXXZS4NKX171YT&) 
+Sue Perkins' Earpedia Series 2: [Plants](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Plants-Audiobook/B07CTRGBQB?ref=a_pd_Non-fi_c14_moreAuthors_0&pf_rd_p=e451f83d-9b5c-40e4-bc18-48e770df7327&pf_rd_r=TXGVQ9TZYK46B2EXE343&)
 
 ## Dave Berry Breakfast Show - Absolute Radio
 
