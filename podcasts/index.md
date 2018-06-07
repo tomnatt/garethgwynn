@@ -14,19 +14,23 @@ I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cut
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05rf7sv/player"></iframe>
 
-## Dave Berry Breakfast Show - Absolute Radio
-
-I wrote this video to mark the launch of The Dave Berry Breakfast Show on Absolute Radio, featuring... Actually, I won’t say who’s in it. That really is half the fun.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YehM8M42W9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## Bull - Gold
 
 John-Luke Roberts and I created and wrote this sitcom for Gold starring Robert Lindsay, Maureen Lipman, Naz Osmanoglu and Claudia Jessie. Here's a playlist which includes the trailer, a behind the scenes feature and some best-bits.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XSKzvDheaSo?list=PLyk_nLKHU9Qm8iSwLJc_5_QmEX4_tj0TH" frameborder="0" allowfullscreen></iframe>
 
+Someone seems to have crept the whole series up online, too. No idea how long this will be here for but, in the meantime, here's a playlist. Episode 3 is my favourite. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpgS78r1IwU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html), so do make sure you check it out.
+
+## Dave Berry Breakfast Show - Absolute Radio
+
+I wrote this video to mark the launch of The Dave Berry Breakfast Show on Absolute Radio, featuring... Actually, I won’t say who’s in it. That really is half the fun.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YehM8M42W9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Documentaries - BBC Radio 4
 
