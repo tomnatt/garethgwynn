@@ -20,9 +20,9 @@ John-Luke Roberts and I created and wrote this sitcom for Gold starring Robert L
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XSKzvDheaSo?list=PLyk_nLKHU9Qm8iSwLJc_5_QmEX4_tj0TH" frameborder="0" allowfullscreen></iframe>
 
-Someone seems to have crept the whole series up online, too. No idea how long this will be here for but, in the meantime, [here's a playlist](https://www.youtube.com/watch?v=9tDXIaq_uaY&list=RD9tDXIaq_uaY&t=0). Episode 3 is my favourite. 
+Someone seems to have crept the whole series up online, too. No idea how long this will be here for but, in the meantime, [here's a playlist](https://www.youtube.com/embed/IdFPodfUOGA). Episode 3 is my favourite. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MpgS78r1IwU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IdFPodfUOGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html), so do make sure you check it out.
 
