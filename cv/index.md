@@ -18,13 +18,13 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Now Show | Writer, BBC Radio 4, 2009-19 (cf. Performing Credits) |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 (cf. Performing Credits) |
 | Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 (cf. Performing Credits) |
+| O'r Diwedd | Writer, S4C, 2016-18 (c.f. Production Credits) |
 | Ankle Tag (Sitcom Series)	| Writer, BBC Radio 2/BBC Radio 4, 2015-18 |
 | Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
 | Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
-| Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
-| O'r Diwedd | Writer, S4C, 2016-18 (c.f. Production Credits) |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
+| Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
 | The News Quiz | Writer, BBC Radio 4, 2008-17 |
 | Tony Law: 21st Century Adventurer (Sitcom Pilot) | Writer, BBC Radio 4, 2017 |
 | Please Hold (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2017 | 
