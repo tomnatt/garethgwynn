@@ -8,6 +8,36 @@ title: Podcasts and Videos of Gareth Gwynn
 
 On this page, you'll find some of the radio shows, TV shows, podcasts and videos I've appeared in or worked on. I'll use the blog on the front page to flag up anything new, but these are links to bits and bobs that won't expire after only 30 days. Apologies in advance for any broken links - The internet is built on shifting sands.
 
+## Gareth Gwynn's Alternative Archive - BBC Radio 4
+
+Kicking-off with an [actual scientist](https://www.research.manchester.ac.uk/portal/darren.price.html) explaining the Many Worlds theory, [Gareth Gwynn's Alternative Archive](https://www.bbc.co.uk/programmes/m000240n) was the first Archive On Four to look, not backwards, but sideways - as we listened-in to radio stations from alternative universes and other dimensions. It's an hour, which is quite long - but there are 113 other voices in it - so I'm pretty well diluted.
+
+## Ankle Tag - BBC Radio 4
+
+"[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide)" is a sitcom on BBC Radio 4 written by Benjamin Partridge and I and stars Elis James, Katy Wix and Steve Speirs. Both series are currently available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) and an episode from Series 1 (plus an interview with Elis and I, conducted by Cariad Lloyd) has crept up online. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k97x78rV-ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+In the event that that link is torn down, this official BBC clip of the interview should survive:
+
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05gp0v1/player"></iframe>
+
+## Tourist Trap - BBC One Wales
+
+[Tourist Trap](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) is a semi-improvised sitcom with plots witten by Tudur Owen, Sian Harries and I. A second series has been commissioned but, in the meantime, a collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage. 
+
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p06ngd6l/player"></iframe>
+
+## Documentaries - BBC Radio 4
+
+I have presented three documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics, all of which are still available on the BBC Radio 4 website.
+
+"[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.
+
+"[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records. 
+
+"[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy)" told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.
+
 ## Just A Minute: 50 Years In 28 Minutes - BBC Radio 4
 
 I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cutting together archive episodes and creating exchanges between panellists that could never have happened in real life. 
@@ -26,7 +56,7 @@ Someone seems to have crept the whole series up online, too. No idea how long th
 
 Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html), so do make sure you check it out.
 
-## Sue Perkins' Earpedia
+## Sue Perkins' Earpedia - Audible
 
 Sue Perkins presents facts about animals, with assistance from Margaret Cabourn-Smith and Simon Kane, in this Audible Original series which I wrote with Gabby Hutchinson-Crouch, Jon Hunter.
 
@@ -40,26 +70,6 @@ I wrote this video to mark the launch of The Dave Berry Breakfast Show on Absolu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YehM8M42W9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Documentaries - BBC Radio 4
-
-I have presented three documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics, all of which are still available on the BBC Radio 4 website.
-
-"[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.
-
-"[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records. 
-
-"[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy)" told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.
-
-## Ankle Tag - BBC Radio 4
-
-"[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide)" is a sitcom on BBC Radio 4 written by Benjamin Partridge and I and stars Elis James, Katy Wix and Steve Speirs. We're currrently writing series 2 of the show, although an episode from Series 1 (plus an interview with Elis and I, conducted by Cariad Lloyd) seems to have been crept up online. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k97x78rV-ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-In the event that that link is torn down, this official BBC clip of the interview should survive:
-
-<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05gp0v1/player"></iframe>
-
 ## The Now Show - BBC Radio 4
 
 I have appeared on The Now Show four times times, most recently during BBC Local Radio's 50th Birthday Celebrations...
@@ -69,6 +79,10 @@ I have appeared on The Now Show four times times, most recently during BBC Local
 Audio from my first three appearences are on this Audioboom playlist.
 
 <iframe width="100%" height="350" style="background-color:transparent; display:block; max-width: 700px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" src="//embeds.audioboom.com/publishing/playlist/v4?bg_fill_col=%23ecefef&amp;boo_content_type=playlist&amp;data_for_content_type=1291123-gareth-gwynn-on-the-now-show&amp;image_option=small&amp;link_color=%2358d1eb&amp;player_theme=light&amp;src=https%3A%2F%2Fapi.audioboom.com%2Fplaylists%2F1291123-gareth-gwynn-on-the-now-show" title="audioBoom player"></iframe>
+
+## The Beef And Dairy Network - Podcast
+
+I appeared on episodes [23](http://www.beefanddairynetwork.com/post/160921529730/episode-23-75th-anniversary-special) and [41](http://www.beefanddairynetwork.com/post/180262291995/episode-41-beefy-boy) of Benjamin Partridge's bovine-centric comedy podcast, The Beef And Dairy Network, as archivist Alex Neon. Around the time of my second appearence, I'd been working on quite a few archive shows and Ben interviewed me on the subject but asked me to change the words "BBC Radio Wales" for "Beef". Apart from that, it's all pretty accurate...
 
 ## The Gareth Gwynn Show - BBC Radio Wales
 
