@@ -6,28 +6,30 @@ title: CV of Gareth Gwynn
 
 # CV
 
-Gareth Gwynn is an experienced Welsh comedy writer and radio presenter. He is a two-time Radio Academy Award winner, a two-time Celtic Media Award nominee, a 4Talent Award winner, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
-
+Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a two-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 ## Writing
 
 | | |
 |----| ----|
+| Tourist Trap | Writer, BBC One Wales, 2018-19 (cf. Performing Credits) |
+| We Need To Talk About… | Writer, Spotify, 2017-19 |
+| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
+| Elis James: Nabod y Teip | Writer, S4C, 2019|
+| The Now Show | Writer, BBC Radio 4, 2009-19 (cf. Performing Credits) |
+| Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 (cf. Performing Credits) |
+| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 (cf. Performing Credits) |
 | Ankle Tag (Sitcom Series)	| Writer, BBC Radio 2/BBC Radio 4, 2015-18 |
-| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018 |
 | Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
 | Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
-| The Tourist Trap | Writer, BBC One Wales, 2018 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
-| We Need To Talk About… | Writer, Spotify, 2017-18 |
-| The Now Show | Writer, BBC Radio 4, 2009-18 (cf. Performing Credits) |
 | O'r Diwedd | Writer, S4C, 2016-18 (c.f. Production Credits) |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
 | The News Quiz | Writer, BBC Radio 4, 2008-17 |
 | Tony Law: 21st Century Adventurer (Sitcom Pilot) | Writer, BBC Radio 4, 2017 |
 | Please Hold (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2017 | 
 | The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
-| State Of The Nations | Writer, BBC Radio 4. 2016-17 |
+| State Of The Nations | Writer, BBC Radio 4, 2016-17 |
 | Now The Twelfth Night Show | Writer, BBC Radio 4, 2017 |
 | The Coopers Verses The Rest (Sitcom Pilot) | Additional Material, BBC Two, 2016 |
 | Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
@@ -78,14 +80,17 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 | | |
 |----| ----|
-| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 2017 (cf. Writing Credits) |
+| Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
+| Tourist Trap | Voice Over, BBC One Wales, 2018-19 (cf. Writing) |
+| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun, 2017-18 |
+| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
+| International Waters | Panellist, Maximum Fun Podcast, 2016, 2018 |
 | Gareth Gwynn’s Twisted 2017 | Presenter, BBC Radio Wales, 2017 |
+| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 2017 (cf. Writing Credits) |
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
-| The Beef And Dairy Network (Episode 23)	| Performer, Maximum Fun, 2017 |
 | The Greatest Ever Faker | Writer/Presenter, BBC Radio 4, 2016 |
-| International Waters | Panellist, Maximum Fun Podcast, 2016 |
 | Exploding Brain Myths | Voice Over, Web Series, 2016 |
 | BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
 | BBC Radio Wales Summer Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
@@ -118,8 +123,8 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| O'r Diwedd | Creative Producer, S4C, 2016-18 (c.f. Writing Credits) |
 | Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 |
-| O'r Diwedd | Creative Producer, S4C, 2016-17 (c.f. Writing Credits) |
 | Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing Credits) |
 | What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing Credits) |
@@ -133,6 +138,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Audio Production Awards - Gethin Thomas Comedy Award – Nomination | 2018 |
 | The Radio Academy ARIAS – Best Entertainment Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 | 
