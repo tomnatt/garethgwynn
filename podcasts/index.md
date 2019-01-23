@@ -8,13 +8,9 @@ title: Podcasts and Videos of Gareth Gwynn
 
 On this page, you'll find some of the radio shows, TV shows, podcasts and videos I've appeared in or worked on. I'll use the blog on the front page to flag up anything new, but these are links to bits and bobs that won't expire after only 30 days. Apologies in advance for any broken links - The internet is built on shifting sands.
 
-## Gareth Gwynn's Alternative Archive - BBC Radio 4
-
-Kicking-off with an [actual scientist](https://www.research.manchester.ac.uk/portal/darren.price.html) explaining the Many Worlds theory, [Gareth Gwynn's Alternative Archive](https://www.bbc.co.uk/programmes/m000240n) was the first Archive On Four to look, not backwards, but sideways - as we listened-in to radio stations from alternative universes and other dimensions. It's an hour, which is quite long - but there are 113 other voices in it - so I'm pretty well diluted.
-
 ## Ankle Tag - BBC Radio 4
 
-"[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide)" is a sitcom on BBC Radio 4 written by Benjamin Partridge and I and stars Elis James, Katy Wix and Steve Speirs. Both series are currently available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) and an episode from Series 1 (plus an interview with Elis and I, conducted by Cariad Lloyd) has crept up online. 
+"[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide)" is a sitcom on BBC Radio 4 written by Benjamin Partridge and I and stars Elis James, Katy Wix and Steve Speirs. Both series are currently available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) and an episode from Series 1 (plus an interview with Elis and I, conducted by Cariad Lloyd) has crept up on YouTube. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k97x78rV-ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -22,9 +18,14 @@ In the event that that link is torn down, this official BBC clip of the intervie
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05gp0v1/player"></iframe>
 
+## Gareth Gwynn's Alternative Archive - BBC Radio 4
+
+<img src="/images/GGSpaceSmall.jpg" align="left">
+Kicking-off with an [actual scientist](https://www.research.manchester.ac.uk/portal/darren.price.html) explaining the Many Worlds theory, [Gareth Gwynn's Alternative Archive](https://www.bbc.co.uk/programmes/m000240n) was the first Archive On Four to look, not backwards, but sideways - as we listened-in to radio stations from alternative universes and other dimensions. It's an hour, which is quite long - but there are 113 other voices in it - so I'm pretty well diluted.
+
 ## Tourist Trap - BBC One Wales
 
-[Tourist Trap](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) is a semi-improvised sitcom with plots witten by Tudur Owen, Sian Harries and I. A second series has been commissioned but, in the meantime, a collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage. 
+[Tourist Trap](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) is a semi-improvised sitcom in which I supply the voice over as well as co-write the plots, together with Tudur Owen and Sian Harries. A rugby special and second series have been commissioned but, in the meantime, a collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage. 
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p06ngd6l/player"></iframe>
 
@@ -44,6 +45,10 @@ I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cut
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05rf7sv/player"></iframe>
 
+## The Beef And Dairy Network - Podcast
+
+I appeared on episodes [23](http://www.beefanddairynetwork.com/post/160921529730/episode-23-75th-anniversary-special) and [41](http://www.beefanddairynetwork.com/post/180262291995/episode-41-beefy-boy) of Benjamin Partridge's bovine-centric comedy podcast, The Beef And Dairy Network, as archivist Alex Neon. Around the time of my second appearence, I'd been working on quite a few archive shows and Ben interviewed me on the subject but asked me to change the words "BBC Radio Wales" for "Beef". Apart from that, it's all pretty accurate...
+
 ## Bull - Gold
 
 John-Luke Roberts and I created and wrote this sitcom for Gold starring Robert Lindsay, Maureen Lipman, Naz Osmanoglu and Claudia Jessie. Here's a playlist which includes the trailer, a behind the scenes feature and some best-bits.
@@ -55,6 +60,16 @@ Someone seems to have crept the whole series up online, too. No idea how long th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdFPodfUOGA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Also, in episode two, Rupert Bull mentioned [his website](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html), so do make sure you check it out.
+
+## The Now Show - BBC Radio 4
+
+I have appeared on The Now Show four times times, most recently during BBC Local Radio's 50th Birthday Celebrations...
+
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05p3rmx/player"></iframe>
+
+Audio from my first three appearences are on this Audioboom playlist.
+
+<iframe width="100%" height="350" style="background-color:transparent; display:block; max-width: 700px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" src="//embeds.audioboom.com/publishing/playlist/v4?bg_fill_col=%23ecefef&amp;boo_content_type=playlist&amp;data_for_content_type=1291123-gareth-gwynn-on-the-now-show&amp;image_option=small&amp;link_color=%2358d1eb&amp;player_theme=light&amp;src=https%3A%2F%2Fapi.audioboom.com%2Fplaylists%2F1291123-gareth-gwynn-on-the-now-show" title="audioBoom player"></iframe>
 
 ## Sue Perkins' Earpedia - Audible
 
@@ -69,20 +84,6 @@ Sue Perkins' Earpedia Series 2: [Plants](https://www.audible.co.uk/pd/Non-fictio
 I wrote this video to mark the launch of The Dave Berry Breakfast Show on Absolute Radio, featuring... Actually, I won’t say who’s in it. That really is half the fun.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YehM8M42W9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## The Now Show - BBC Radio 4
-
-I have appeared on The Now Show four times times, most recently during BBC Local Radio's 50th Birthday Celebrations...
-
-<iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05p3rmx/player"></iframe>
-
-Audio from my first three appearences are on this Audioboom playlist.
-
-<iframe width="100%" height="350" style="background-color:transparent; display:block; max-width: 700px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" src="//embeds.audioboom.com/publishing/playlist/v4?bg_fill_col=%23ecefef&amp;boo_content_type=playlist&amp;data_for_content_type=1291123-gareth-gwynn-on-the-now-show&amp;image_option=small&amp;link_color=%2358d1eb&amp;player_theme=light&amp;src=https%3A%2F%2Fapi.audioboom.com%2Fplaylists%2F1291123-gareth-gwynn-on-the-now-show" title="audioBoom player"></iframe>
-
-## The Beef And Dairy Network - Podcast
-
-I appeared on episodes [23](http://www.beefanddairynetwork.com/post/160921529730/episode-23-75th-anniversary-special) and [41](http://www.beefanddairynetwork.com/post/180262291995/episode-41-beefy-boy) of Benjamin Partridge's bovine-centric comedy podcast, The Beef And Dairy Network, as archivist Alex Neon. Around the time of my second appearence, I'd been working on quite a few archive shows and Ben interviewed me on the subject but asked me to change the words "BBC Radio Wales" for "Beef". Apart from that, it's all pretty accurate...
 
 ## The Gareth Gwynn Show - BBC Radio Wales
 
