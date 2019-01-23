@@ -21,7 +21,9 @@ In the event that that link is torn down, this official BBC clip of the intervie
 ## Gareth Gwynn's Alternative Archive - BBC Radio 4
 
 <img src="/images/GGSpaceSmall.jpg" align="left">
-Kicking-off with an [actual scientist](https://www.research.manchester.ac.uk/portal/darren.price.html) explaining the Many Worlds theory, [Gareth Gwynn's Alternative Archive](https://www.bbc.co.uk/programmes/m000240n) was the first Archive On Four to look, not backwards, but sideways - as we listened-in to radio stations from alternative universes and other dimensions. It's an hour, which is quite long - but there are 113 other voices in it - so I'm pretty well diluted.
+Kicking-off with an [actual scientist](https://www.research.manchester.ac.uk/portal/darren.price.html) explaining the Many Worlds theory, [Gareth Gwynn's Alternative Archive](https://www.bbc.co.uk/programmes/m000240n) was the first Archive On Four to look, not backwards, but sideways - as we listened-in to radio stations from alternative universes and other dimensions.
+
+It's an hour, which is quite long - but there are 113 other voices in it - so I'm pretty well diluted.
 
 ## Tourist Trap - BBC One Wales
 
