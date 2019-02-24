@@ -80,13 +80,14 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 | | |
 |----| ----|
+| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
+| Tourist Trap | Voice Over, BBC One Wales, 2018-19 (cf. Writing Credits) |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
-| Tourist Trap | Voice Over, BBC One Wales, 2018-19 (cf. Writing) |
-| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun, 2017-18 |
+| Any Stupid Questions | Guest, Podcast, 2019 |
+| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun Podcast, 2017-18 |
 | Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
 | International Waters | Panellist, Maximum Fun Podcast, 2016, 2018 |
 | Gareth Gwynn’s Twisted 2017 | Presenter, BBC Radio Wales, 2017 |
-| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 2017 (cf. Writing Credits) |
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
