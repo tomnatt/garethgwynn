@@ -11,17 +11,17 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 
 | | |
 |----| ----|
-| Ankle Tag	| Writer, BBC Radio 2/BBC Radio 4, 2015-20 |
-| The Goodies - The Big Ben Theory	| Writer, Audible, 2019 |
-| Tourist Trap | Writer, BBC One Wales, 2018-19 (cf. Performing Credits) |
-| Tony Law: 21st Century Adventurer (Pilot) | Writer, BBC Radio 4, 2017 |
-| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 | 
-| The Coopers Verses The Rest (Pilot) | Additional Material, BBC Two, 2016 |
-| Bull | Writer, GOLD, 2015 |
-| Passing On | Writer, BBC Radio Wales, 2014 |
-| Social Club FM | Writer, BBC Radio Wales, 2011-13 |
-| Those That Can't (Series 4) | Writer, BBC Radio Wales, 2012 |
-| Antiquity (Pilot) | Writer, BBC Radio 4, 2010 |
+| Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
+| The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones)	| Audible, 2019 |
+| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19 (cf. Performing Credits) |
+| Tony Law: 21st Century Adventurer (Pilot) <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
+| Please Hold (Pilot) - Script Editor | BBC Radio Wales, 2017 | 
+| The Coopers Verses The Rest (Pilot) - Additional Material | BBC Two, 2016 |
+| Bull  (with John-Luke Roberts) | GOLD, 2015 |
+| Passing On | BBC Radio Wales, 2014 |
+| Social Club FM  (with Elis James and Chris Corcoran) | BBC Radio Wales, 2011-13 |
+| Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
+| Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
 ## Sketch, Stand-Up and Joke Writing
 
