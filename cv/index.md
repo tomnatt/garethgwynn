@@ -12,8 +12,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
+| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19 (cf. Performing Credits)<br>BBC Radio Wales, 2020 |
 | The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones)	| Audible, 2019 |
-| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19 (cf. Performing Credits) |
 | Tony Law: 21st Century Adventurer (Pilot) <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
 | Please Hold (Pilot) - Script Editor | BBC Radio Wales, 2017 | 
 | The Coopers Verses The Rest (Pilot) - Additional Material | BBC Two, 2016 |
@@ -22,6 +22,24 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Social Club FM  (with Elis James and Chris Corcoran) | BBC Radio Wales, 2011-13 |
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
+
+## Cut-Up and Archive Based Shows
+| | |
+|----| ----|
+| The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
+| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
+| Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
+| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
+| Elis James: Nabod y Teip | Writer, S4C, 2019|
+| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 (cf. Performing Credits) |
+| Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
+| Listen Against | Writer / Researcher, BBC Radio 4, 2007-11 |
+| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
+| Gareth Gwynn’s Twisted 2017 | Presenter, BBC Radio Wales, 2017 |
+| Gareth Gwynn's Twisted 2014 | Writer / Presenter, BBC Radio Wales, 2014 |
+| Gareth Gwynn's Twisted History of BBC Wales | Writer / Presenter, BBC Radio Wales, 2014 |
+| Play & Record | Writer / Performer, BBC Radio 7, 2007 |
+| BBC BackChat (Pilot) | Writer / Presenter, BBC Radio 7, 2007 |
 
 ## Sketch, Stand-Up and Joke Writing
 
@@ -33,14 +51,10 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
 | Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
-| Elis James: Nabod y Teip | Writer, S4C, 2019|
-| Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 (cf. Performing Credits) |
-| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 (cf. Performing Credits) |
 | Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
 | Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
-| Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
 | The News Quiz | Writer, BBC Radio 4, 2008-17 |
 | The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
 | State Of The Nations | Writer, BBC Radio 4, 2016-17 |
@@ -58,11 +72,9 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | XFM/Heart On-Air Promotion Adverts | Writer, XFM/Heart - This Is Global, 2015 |
 | Have I Got News For You | Writer, BBC One, 2014 |
 | Small Scenes | Writer, BBC Radio 4, 2013 |
-| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
 | Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
-| Listen Against | Writer / Researcher, BBC Radio 4, 2007-11 |
 | Show & Tell | Writer, E4, 2011 |
 | Reception | Script Editor / Writer, BBC Radio 2, 2011 |
 | The News Quiz Extra | Writer / Contributor, BBC Radio 4 Extra, 2011 |
@@ -84,38 +96,41 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 
 Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
-## Presenting / Performing
-
+## Documentaries
 | | |
 |----| ----|
-| Funny Nation | Contributor, BBC One Wales, 2019 |
-| James King's Cinema Stories | Guest, Podcast, 2019 |
-| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
-| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
-| Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
-| Any Stupid Questions | Guest, Podcast, 2019 |
-| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun Podcast, 2017-18 |
-| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
-| International Waters | Panellist, Maximum Fun Podcast, 2016, 2018 |
-| Gareth Gwynn’s Twisted 2017 | Presenter, BBC Radio Wales, 2017 |
-| BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
-| The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
 | The Greatest Ever Faker | Writer/Presenter, BBC Radio 4, 2016 |
-| Exploding Brain Myths | Voice Over, Web Series, 2016 |
-| BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
-| BBC Radio Wales Summer Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer / Presenter, BBC Radio 4, 2015 |
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer / Presenter, BBC Radio 4, 2014 |
-| Gareth Gwynn's Twisted History Of Radio | Writer / Performer, Machynlleth Comedy Festival |
-| Gareth Gwynn's Twisted 2014 | Writer / Presenter, BBC Radio Wales, 2014 |
+
+## Music Radio Presenting
+| | |
+|----| ----|
+| BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
+| The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
+| BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
+| BBC Radio Wales Summer Saturday Afternoon Show | Regular Presenter, BBC Radio Wales, 2013-15 |
+| Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
+| Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
+
+Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
+
+## Other Performing
+| | |
+|----| ----|
+| Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice over, BBC Radio Wales, 2020 |
+| Funny Nation | Contributor, BBC One Wales, 2019 |
+| James King's Cinema Stories | Guest, Podcast, 2019 |
+| Any Stupid Questions | Guest, Podcast, 2019 |
+| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun Podcast, 2017-18 |
+| International Waters | Panellist, Maximum Fun Podcast, 2016, 2018 |
+| Exploding Brain Myths | Voice Over, Web Series, 2016 |
 | The Leak with Tom Price | Guest, BBC Radio Wales, 2014 |
-| Gareth Gwynn's Twisted History of BBC Wales | Writer / Presenter, BBC Radio Wales, 2014 |
-| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
 | What’s The Story? | Panellist, BBC Radio Wales, 2013 (cf. Production Credits) |
 | Do The Right Thing | Panellist, Podcast, 2013 |
-| Scramblecast - A Touchcast Demonstration | Writer / Performer, BBC Online, 2013 |
 | Parallel Lines | Radio Performer, Dirty Protest Theatre, 2013 |
+| Scramblecast - A Touchcast Demonstration | Writer / Performer, BBC Online, 2013 |
 | Film Fandango | Guest, Absolute Radio Podcast, 2012 |
 | Nintendo TV News | Voice Over, Future Publishing / Nintendo Wii, 2010-11 |
 | Something Else | Panellist / Contributor, BBC Radio Wales, 2010 |
@@ -123,12 +138,6 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Too Late For Breakfast | Panellist, BBC Radio 5 Live, 2009 |
 | B.A.D. Radio | Writer / Performer, GWR Bath, 2008 |
 | Funny Business | Performer, BBC 2 Wales, 2008 |
-| Play & Record | Writer / Performer, BBC Radio 7, 2007 |
-| BBC BackChat (Pilot) | Writer / Presenter, BBC Radio 7, 2007 |
-| Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
-| Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
-
-Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
 ## Radio and TV Comedy Production
 
