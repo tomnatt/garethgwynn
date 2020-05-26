@@ -12,7 +12,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
-| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19 (cf. Performing Credits)<br>BBC Radio Wales, 2020 |
+| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19<br>BBC Radio Wales, 2020 (cf. Performing Credits)|
 | The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones)	| Audible, 2019 |
 | Tony Law: 21st Century Adventurer (Pilot) <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
 | Please Hold (Pilot) - Script Editor | BBC Radio Wales, 2017 | 
@@ -29,17 +29,18 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
-| The Now Show | Writer / Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
+| The Now Show | Writer/ Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
+| Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
-| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 (cf. Performing Credits) |
+| Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
-| Listen Against | Writer / Researcher, BBC Radio 4, 2007-11 |
+| Listen Against | Writer/ Researcher, BBC Radio 4, 2007-11 |
 | I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
-| Gareth Gwynn’s Twisted 2017 | Presenter, BBC Radio Wales, 2017 |
-| Gareth Gwynn's Twisted 2014 | Writer / Presenter, BBC Radio Wales, 2014 |
-| Gareth Gwynn's Twisted History of BBC Wales | Writer / Presenter, BBC Radio Wales, 2014 |
-| Play & Record | Writer / Performer, BBC Radio 7, 2007 |
-| BBC BackChat (Pilot) | Writer / Presenter, BBC Radio 7, 2007 |
+| Gareth Gwynn’s Twisted 2017 | Presenter/Producer, BBC Radio Wales, 2017 |
+| Gareth Gwynn's Twisted 2014 | Writer/Presenter, BBC Radio Wales, 2014 |
+| Gareth Gwynn's Twisted History of BBC Wales | Writer/Presenter, BBC Radio Wales, 2014 |
+| Play & Record | Writer/Performer, BBC Radio 7, 2007 |
+| BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
 ## Sketch, Stand-Up and Joke Writing
 
@@ -114,8 +115,6 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
 | Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
-Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
-
 ## Other Performing
 | | |
 |----| ----|
@@ -139,12 +138,13 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 | B.A.D. Radio | Writer / Performer, GWR Bath, 2008 |
 | Funny Business | Performer, BBC 2 Wales, 2008 |
 
+Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
+
 ## Radio and TV Comedy Production
 
 | | |
 |----| ----|
 | O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Writing Credits) |
-| Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 |
 | Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing Credits) |
 | What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing Credits) |
