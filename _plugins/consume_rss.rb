@@ -13,7 +13,7 @@ class ConsumeRss < Liquid::Tag
   def render(context)
     unless @feed.to_s.empty?
       "<h2>#{@feed.first.title}</h2>
-      <p>#{CGI.unescapeHTML(@feed.first.content)}</p>
+      <p>#{CGI.unescapeHTML(@feed.first.content)}</p>"
     end
   end
 
