@@ -14,8 +14,6 @@ class ConsumeRss < Liquid::Tag
     unless @feed.to_s.empty?
       "<h2>#{@feed.first.title}</h2>
       <p>#{CGI.unescapeHTML(@feed.first.content)}</p>
-      <h2>#{@feed[1].title}</h2>
-      <p>#{CGI.unescapeHTML(@feed[1].content)}</p>"
     end
   end
 
