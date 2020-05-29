@@ -37,13 +37,9 @@ I have presented three documentaries for BBC Radio 4 examining Welsh identity, l
 
 ## The Now Show - BBC Radio 4
 
-I have appeared on The Now Show five times times. The fourth co-incided with the 50th Anniversary of BBC Local Radio...
+I have appeared on The Now Show five times times. Audio from my first three appearences are on this [Audioboom playlist](https://audioboom.com/playlists/1291123-gareth-gwynn-on-the-now-show) and the fourth co-incided with the 50th Anniversary of BBC Local Radio...
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05p3rmx/player"></iframe>
-
-Audio from my first three appearences are on this Audioboom playlist.
-
-<iframe width="100%" height="350" src="https://embeds.audioboom.com/publishing/playlist/v4?boo_content_type=playlist&amp;data_for_content_type=1291123&amp;image_option=small" style="background-color:transparent; display:block; padding: 0; max-width:700px;" frameborder="0" allowtransparency="allowtransparency" scrolling="no" title="Audioboom player" allow="autoplay"></iframe>
 
 
 ## Just A Minute: 50 Years In 28 Minutes - BBC Radio 4
