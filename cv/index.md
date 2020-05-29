@@ -8,10 +8,9 @@ title: CV of Gareth Gwynn
 
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 
-[Sitcom Writing](##sitcom-writing) / [Archive Based Shows](##archive-based-shows)<br>
-[Topical and Satirical Shows](##topical-and-satirical-shows) / [Sketch, Stand-Up and Joke Writing](##sketch,stand-up-and-joke-writing)<br>
-[Documentaries](##documentaries) / [Music Radio](##music-radio-presenting) / [Performing](##other-performing) / [Production](##comedy-production)<br>
-[Awards](##awards)
+[Sitcom Writing](#sitcom-writing) / [Archive Based Shows](#archive-based-shows) / [Topical and Satirical Shows](#topical-and-satirical-shows) / [Sketch, Stand-Up and Joke Writing](#sketch,stand-up-and-joke-writing)<br>
+[Documentaries](#documentaries) / [Music Radio](#music-radio-presenting) / [Performing](#other-performing) / [Production](#comedy-production)<br>
+[Awards](#awards)
 
 ## Sitcom Writing
 
