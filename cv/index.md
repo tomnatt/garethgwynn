@@ -7,6 +7,12 @@ title: CV of Gareth Gwynn
 # CV
 
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
+
+[Sitcom Writing](##sitcom-writing) / [Archive Based Shows](##archive-based-shows)<br>
+[Topical and Satirical Shows](##topical-and-satirical-shows) / [Sketch, Stand-Up and Joke Writing](##sketch,stand-up-and-joke-writing)<br>
+[Documentaries](##documentaries) / [Music Radio](##music-radio-presenting) / [Performing](##other-performing) / [Production](##comedy-production)<br>
+[Awards](##awards)
+
 ## Sitcom Writing
 
 | | |
@@ -23,79 +29,24 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
-## Cut-Up and Archive Based Shows
+## Archive Based Shows
 | | |
 |----| ----|
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
-| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
 | The Now Show | Writer/ Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
-| Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 |
+| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
 | Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
-| Listen Against | Writer/ Researcher, BBC Radio 4, 2007-11 |
-| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
+| Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 |
 | Gareth Gwynn’s Twisted 2017 | Presenter/Producer, BBC Radio Wales, 2017 |
+| I Love Wales | Writer / Presenter, BBC One Wales, 2013 |
 | Gareth Gwynn's Twisted 2014 | Writer/Presenter, BBC Radio Wales, 2014 |
 | Gareth Gwynn's Twisted History of BBC Wales | Writer/Presenter, BBC Radio Wales, 2014 |
+| Listen Against | Writer/ Researcher, BBC Radio 4, 2007-11 |
 | Play & Record | Writer/Performer, BBC Radio 7, 2007 |
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
-
-## Sketch, Stand-Up and Joke Writing
-
-| | |
-|----| ----|
-| The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
-| Welcome Strangers | Writer/Script Editor, BBC Radio Wales, 2020 |
-| O'r Diwedd | Writer, S4C, 2016-19 (c.f. Production Credits) |
-| The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
-| We Need To Talk About… | Writer, Spotify, 2017-19 |
-| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
-| Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
-| Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
-| Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
-| The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
-| The News Quiz | Writer, BBC Radio 4, 2008-17 |
-| The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
-| State Of The Nations | Writer, BBC Radio 4, 2016-17 |
-| Now The Twelfth Night Show | Writer, BBC Radio 4, 2017 |
-| Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
-| Elis James' Pantheon Of Heroes | Writer, BBC Radio Wales / BBC Radio 4Extra, 2012-16 |
-| Jonathan's Six Nations Quiz | Writer, BBC One Wales, 2016 |
-| Elis James' Guide To Machynlleth | Writer, BBC Radio Wales, 2015 |
-| Beat The Intro | Writer, Audible Originals, 2015 |
-| Bridget Christie's Christmas List | Additional Material, BBC Radio 4, 2015 |
-| XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
-| Sketchland | Script Editor, BBC Two Scotland, 2015 |
-| Here Be Dragons | Writer / Script Editor, BBC Radio Wales, 2013-15 |
-| Best Behaviour | Writer, BBC Radio 4, 2015 |
-| XFM/Heart On-Air Promotion Adverts | Writer, XFM/Heart - This Is Global, 2015 |
-| Have I Got News For You | Writer, BBC One, 2014 |
-| Small Scenes | Writer, BBC Radio 4, 2013 |
-| Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
-| The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
-| Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
-| Show & Tell | Writer, E4, 2011 |
-| Reception | Script Editor / Writer, BBC Radio 2, 2011 |
-| The News Quiz Extra | Writer / Contributor, BBC Radio 4 Extra, 2011 |
-| The Now Show Extra | Writer, BBC Radio 4 Extra, 2011 |
-| Jon Holmes' Mob Rule | Writer, BBC Radio 5 Live, 2011 |
-| The Armstrong & Miller Book | Writer, Sphere Publishing, 2010 |
-| The Armstrong & Miller Show | Writer, BBC One, 2010 |
-| The Jason Byrne Show | Writer, BBC Radio 2, 2010 |
-| Dilemma (Pilot) | Writer, BBC Radio 4, 2010 |
-| What's The Story? | Script Editor, BBC Radio Wales, 2010 (cf. Production Credits) |
-| Laura Solon: Talking And Not Talking | Writer, BBC Radio 4, 2009 |
-| I Guess That's Why They Call It The News | Writer, BBC Radio 4, 2009 |
-| Laurence & Gus - Hearts & Minds | Writer, BBC Radio 4, 2009 |
-| Look Away Now | Writer, BBC Radio 4, 2009 |
-| I'm Spartacus | Writer, BBC Radio 2, 2009 |
-| Broken Arts | Writer, BBC Radio 4, 2009 |
-| The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
-| Tilt | Writer, BBC Radio 7, 2008 |
-
-Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Documentaries
 | | |
@@ -104,6 +55,65 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | The Greatest Ever Faker | Writer/Presenter, BBC Radio 4, 2016 |
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer / Presenter, BBC Radio 4, 2015 |
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer / Presenter, BBC Radio 4, 2014 |
+
+## Topical and Satirical Shows
+| | |
+|----| ----|
+| The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
+| O'r Diwedd | Writer, S4C, 2016-19 (c.f. Production Credits) |
+| We Need To Talk About… | Writer, Spotify, 2017-19 |
+| The News Quiz | Writer, BBC Radio 4, 2008-17 |
+| The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
+| Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
+| XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
+| Have I Got News For You | Writer, BBC One, 2014 |
+| Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
+| The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
+| Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
+| The News Quiz Extra | Writer / Contributor, BBC Radio 4 Extra, 2011 |
+| The Now Show Extra | Writer, BBC Radio 4 Extra, 2011 |
+| What's The Story? | Script Editor, BBC Radio Wales, 2010 (cf. Production Credits) |
+| I Guess That's Why They Call It The News | Writer, BBC Radio 4, 2009 |
+| The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
+| Tilt | Writer, BBC Radio 7, 2008 |
+
+
+## Sketch, Stand Up and Joke Writing
+| | |
+|----| ----|
+| Welcome Strangers | Writer/Script Editor, BBC Radio Wales, 2020 |
+| The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
+| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
+| Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
+| Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
+| Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
+| The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
+| State Of The Nations | Writer, BBC Radio 4, 2016-17 |
+| Now The Twelfth Night Show | Writer, BBC Radio 4, 2017 |
+| Elis James' Pantheon Of Heroes | Writer, BBC Radio Wales / BBC Radio 4Extra, 2012-16 |
+| Jonathan's Six Nations Quiz | Writer, BBC One Wales, 2016 |
+| Elis James' Guide To Machynlleth | Writer, BBC Radio Wales, 2015 |
+| Beat The Intro | Writer, Audible Originals, 2015 |
+| Bridget Christie's Christmas List | Additional Material, BBC Radio 4, 2015 |
+| Sketchland | Script Editor, BBC Two Scotland, 2015 |
+| Here Be Dragons | Writer / Script Editor, BBC Radio Wales, 2013-15 |
+| Best Behaviour | Writer, BBC Radio 4, 2015 |
+| XFM/Heart On-Air Promotion Adverts | Writer, XFM/Heart - This Is Global, 2015 |
+| Small Scenes | Writer, BBC Radio 4, 2013 |
+| Show & Tell | Writer, E4, 2011 |
+| Reception | Script Editor / Writer, BBC Radio 2, 2011 |
+| Jon Holmes' Mob Rule | Writer, BBC Radio 5 Live, 2011 |
+| The Armstrong & Miller Book | Writer, Sphere Publishing, 2010 |
+| The Armstrong & Miller Show | Writer, BBC One, 2010 |
+| The Jason Byrne Show | Writer, BBC Radio 2, 2010 |
+| Dilemma (Pilot) | Writer, BBC Radio 4, 2010 |
+| Laura Solon: Talking And Not Talking | Writer, BBC Radio 4, 2009 |
+| Laurence & Gus - Hearts & Minds | Writer, BBC Radio 4, 2009 |
+| Look Away Now | Writer, BBC Radio 4, 2009 |
+| I'm Spartacus | Writer, BBC Radio 2, 2009 |
+| Broken Arts | Writer, BBC Radio 4, 2009 |
+
+Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Music Radio Presenting
 | | |
@@ -140,7 +150,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
-## Radio and TV Comedy Production
+## Comedy Production
 
 | | |
 |----| ----|
