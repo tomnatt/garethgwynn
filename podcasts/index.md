@@ -44,6 +44,14 @@ I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cut
 
 I was a regular presenter on BBC Radio Wales for seven years. A handful of best-bits can be found on the [BBC Radio Wales show page](https://www.bbc.co.uk/programmes/b00wt6xy/clips) 
 
+## Sue Perkins' Earpedia - Audible (2016-18)
+
+Sue Perkins presents facts about animals, with assistance from Margaret Cabourn-Smith and Simon Kane, in this Audible Original series which I wrote with Gabby Hutchinson-Crouch and Jon Hunter.
+
+Sue Perkins' Earpedia Series 1: [Animals](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Animals-Audiobook/B0779GZQQ1?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=XYJ5TGRXXZS4NKX171YT&) 
+
+Sue Perkins' Earpedia Series 2: [Plants](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Plants-Audiobook/B07CTRGBQB?ref=a_pd_Non-fi_c14_moreAuthors_0&pf_rd_p=e451f83d-9b5c-40e4-bc18-48e770df7327&pf_rd_r=TXGVQ9TZYK46B2EXE343&)
+
 ## Documentaries - BBC Radio 4 (2014-2016)
 
 I have presented three documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics, all of which are still available on the BBC Radio 4 website.
@@ -53,14 +61,6 @@ I have presented three documentaries for BBC Radio 4 examining Welsh identity, l
 "[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records. 
 
 "[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy)" told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.
-
-## Sue Perkins' Earpedia - Audible (2016-18)
-
-Sue Perkins presents facts about animals, with assistance from Margaret Cabourn-Smith and Simon Kane, in this Audible Original series which I wrote with Gabby Hutchinson-Crouch and Jon Hunter.
-
-Sue Perkins' Earpedia Series 1: [Animals](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Animals-Audiobook/B0779GZQQ1?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=XYJ5TGRXXZS4NKX171YT&) 
-
-Sue Perkins' Earpedia Series 2: [Plants](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Plants-Audiobook/B07CTRGBQB?ref=a_pd_Non-fi_c14_moreAuthors_0&pf_rd_p=e451f83d-9b5c-40e4-bc18-48e770df7327&pf_rd_r=TXGVQ9TZYK46B2EXE343&)
 
 ## Bull - Gold (2015)
 
