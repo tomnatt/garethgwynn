@@ -8,15 +8,20 @@ title: CV of Gareth Gwynn
 
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 
-[Sitcoms](#chapter-1) / [Archive Based Comedy Shows](#chapter-2) / [Documentaries](#chapter-3) / [Satirical Shows](#chapter-4) / [Script Editing](#chapter-5) / [Joke, Sketch and Stand Up Writing](#chapter-6) / [Music Radio Presenting](#chapter-7) / [Performing](#chapter-8) / [Comedy Production](#chapter-9) / [Awards](#chapter-10)
+## Credits 
+| | | |
+|----| ----| ----|
+| [Sitcoms](#chapter-1) | [Archive And Cut-Up Shows](#chapter-2) | [Documentaries](#chapter-3) |
+| [Satirical Shows](#chapter-4) | [Script Editing](#chapter-5) | [Joke, Sketch and Stand Up Writing](#chapter-6) |
+| [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) | 
 
-
+[Awards](#chapter-10)
 
 ## Sitcoms <a name="chapter-1"></a>
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
-| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19<br>BBC Radio Wales, 2020 (cf. Performing Credits)|
+| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19  (cf. Performing Credits)<br>BBC Radio Wales, 2020 (cf. Production Credits)|
 | The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones)	| Audible, 2019 |
 | Tony Law: 21st Century Adventurer (Pilot) <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
 | The Coopers Verses The Rest (Pilot) - Additional Material | BBC Two, 2016 |
@@ -26,7 +31,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
-## Archive Based Comedy Shows <a name="chapter-2"></a>
+## Archive And Cut-Up Shows <a name="chapter-2"></a>
 | | |
 |----| ----|
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -73,9 +78,10 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
 | Tilt | Writer, BBC Radio 7, 2008 |
 
-## Joke, Sketch and Stand Up - Script Editor <a name="chapter-5"></a>
+## Script Editing <a name="chapter-5"></a>
 | | |
 |----| ----|
+| Tudur Owen: Zoo	| Script Editor, BBC Radio 4, 2020 |
 | Welcome Strangers | Script Editor/Writer , BBC Radio Wales, 2020 |
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
@@ -130,6 +136,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | | |
 |----| ----|
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
+| Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
 | James King's Cinema Stories | Guest, Podcast, 2019 |
 | Any Stupid Questions | Guest, Podcast, 2019 |
@@ -154,6 +161,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 ## Comedy Production <a name="chapter-9"></a>
 | | |
 |----| ----|
+| Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
 | O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Satirical Writing Credits) |
 | Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing Credits) |
