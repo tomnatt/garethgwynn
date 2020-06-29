@@ -12,12 +12,12 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 
 | | | |
 |----| ----| ----|
-| [Sitcoms](#chapter-1) | [Archive And Cut-Up Shows](#chapter-2) | [Documentaries](#chapter-3) |
-| [Satirical Shows](#chapter-4) | [Script Editing](#chapter-5) | [Joke, Sketch and Stand Up Writing](#chapter-6) |
-| [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) |
-| [Awards](#chapter-10) ||
+| [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) |
+| [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) | [Joke, Sketch and Stand Up Writing](#joke-sketch-and-stand-up---writer) |
+| [Music Radio Presenting](#music-radio-presenting) | [Other Performing](#other-performing) | [Production](#comedy-production) |
+| [Awards](#awards) ||
 
-## Sitcoms <a name="chapter-1"></a>
+## Sitcoms
 
 | | |
 |----| ----|
@@ -32,7 +32,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
-## Archive And Cut-Up Shows <a name="chapter-2"></a>
+## Archive And Cut-Up Shows
 
 | | |
 |----| ----|
@@ -52,7 +52,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Play & Record | Writer/Performer, BBC Radio 7, 2007 |
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
-## Documentaries <a name="chapter-3"></a>
+## Documentaries
 
 | | |
 |----| ----|
@@ -61,7 +61,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer/Presenter, BBC Radio 4, 2015 |
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer/Presenter, BBC Radio 4, 2014 |
 
-## Topical and Satirical Shows <a name="chapter-4"></a>
+## Topical and Satirical Shows
 
 | | |
 |----| ----|
@@ -82,7 +82,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
 | Tilt | Writer, BBC Radio 7, 2008 |
 
-## Script Editing <a name="chapter-5"></a>
+## Script Editing
 
 | | |
 |----| ----|
@@ -97,7 +97,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
-## Joke, Sketch and Stand Up - Writer <a name="chapter-6"></a>
+## Joke, Sketch and Stand Up - Writer
 
 | | |
 |----| ----|
@@ -128,7 +128,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 
 Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
-## Music Radio Presenting <a name="chapter-7"></a>
+## Music Radio Presenting
 
 | | |
 |----| ----|
@@ -139,7 +139,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
 | Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
-## Other Performing <a name="chapter-8"></a>
+## Other Performing
 
 | | |
 |----| ----|
@@ -166,7 +166,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
-## Comedy Production <a name="chapter-9"></a>
+## Comedy Production
 
 | | |
 |----| ----|
@@ -181,7 +181,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
-## Awards <a name="chapter-10"></a>
+## Awards
 
 | | |
 |----| ----|
