@@ -8,16 +8,17 @@ title: CV of Gareth Gwynn
 
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 
-## Credits 
+## Credits
+
 | | | |
 |----| ----| ----|
-| [Sitcoms](#chapter-1) | [Archive And Cut-Up Shows](#chapter-2) | [Documentaries](#chapter-3) |
-| [Satirical Shows](#chapter-4) | [Script Editing](#chapter-5) | [Joke, Sketch and Stand Up Writing](#chapter-6) |
-| [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) | 
+| [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) |
+| [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) | [Joke, Sketch and Stand Up Writing](#joke-sketch-and-stand-up---writer) |
+| [Music Radio Presenting](#music-radio-presenting) | [Other Performing](#other-performing) | [Production](#comedy-production) |
+| [Awards](#awards) ||
 
-[Awards](#chapter-10)
+## Sitcoms
 
-## Sitcoms <a name="chapter-1"></a>
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
@@ -31,7 +32,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
-## Archive And Cut-Up Shows <a name="chapter-2"></a>
+## Archive And Cut-Up Shows
+
 | | |
 |----| ----|
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -50,7 +52,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Play & Record | Writer/Performer, BBC Radio 7, 2007 |
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
-## Documentaries <a name="chapter-3"></a>
+## Documentaries
+
 | | |
 |----| ----|
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
@@ -58,7 +61,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer/Presenter, BBC Radio 4, 2015 |
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer/Presenter, BBC Radio 4, 2014 |
 
-## Topical and Satirical Shows <a name="chapter-4"></a>
+## Topical and Satirical Shows
+
 | | |
 |----| ----|
 | The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
@@ -78,7 +82,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Extra Time Quiz | Writer, BBC Radio Wales, 2008 |
 | Tilt | Writer, BBC Radio 7, 2008 |
 
-## Script Editing <a name="chapter-5"></a>
+## Script Editing
+
 | | |
 |----| ----|
 | Tudur Owen: Zoo	| Script Editor, BBC Radio 4, 2020 |
@@ -86,13 +91,14 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
 | Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
-| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 | 
+| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | Sketchland | Script Editor, BBC Two Scotland, 2015 |
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
-## Joke, Sketch and Stand Up - Writer <a name="chapter-6"></a>
+## Joke, Sketch and Stand Up - Writer
+
 | | |
 |----| ----|
 | Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
@@ -122,7 +128,8 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 
 Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
-## Music Radio Presenting <a name="chapter-7"></a>
+## Music Radio Presenting
+
 | | |
 |----| ----|
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
@@ -132,7 +139,8 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Gareth Gwynn's Alternative Anthems | Regular Presenter, Afan FM, 2007 |
 | Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
-## Other Performing <a name="chapter-8"></a>
+## Other Performing
+
 | | |
 |----| ----|
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
@@ -158,7 +166,8 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
-## Comedy Production <a name="chapter-9"></a>
+## Comedy Production
+
 | | |
 |----| ----|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
@@ -172,7 +181,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
-## Awards <a name="chapter-10"></a>
+## Awards
 
 | | |
 |----| ----|
@@ -182,7 +191,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | Audio Production Awards - Gethin Thomas Comedy Award – Nomination | 2018 |
 | The Radio Academy ARIAS – Best Entertainment Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
-| Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 | 
+| Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 |
 | Selected for the Prix Marulic Radio Festival, Croatia - The Greatest Ever Faker | 2016 |
 | Celtic Media Festival - Best Comedy Nomination - Here Be Dragons	|	2016 |
 | Celtic Media Festival - Best Documentary Nomination - "...Little Book Of Welsh Independence" | 2015 |
