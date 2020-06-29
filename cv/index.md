@@ -9,15 +9,16 @@ title: CV of Gareth Gwynn
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 
 ## Credits
+
 | | | |
 |----| ----| ----|
 | [Sitcoms](#chapter-1) | [Archive And Cut-Up Shows](#chapter-2) | [Documentaries](#chapter-3) |
 | [Satirical Shows](#chapter-4) | [Script Editing](#chapter-5) | [Joke, Sketch and Stand Up Writing](#chapter-6) |
 | [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) |
-
-[Awards](#chapter-10)
+| [Awards](#chapter-10) ||
 
 ## Sitcoms <a name="chapter-1"></a>
+
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
@@ -32,6 +33,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
 ## Archive And Cut-Up Shows <a name="chapter-2"></a>
+
 | | |
 |----| ----|
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -51,6 +53,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
 ## Documentaries <a name="chapter-3"></a>
+
 | | |
 |----| ----|
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
@@ -59,6 +62,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer/Presenter, BBC Radio 4, 2014 |
 
 ## Topical and Satirical Shows <a name="chapter-4"></a>
+
 | | |
 |----| ----|
 | The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
@@ -79,6 +83,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Tilt | Writer, BBC Radio 7, 2008 |
 
 ## Script Editing <a name="chapter-5"></a>
+
 | | |
 |----| ----|
 | Tudur Owen: Zoo	| Script Editor, BBC Radio 4, 2020 |
@@ -93,6 +98,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
 ## Joke, Sketch and Stand Up - Writer <a name="chapter-6"></a>
+
 | | |
 |----| ----|
 | Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
@@ -123,6 +129,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Music Radio Presenting <a name="chapter-7"></a>
+
 | | |
 |----| ----|
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
@@ -133,6 +140,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
 ## Other Performing <a name="chapter-8"></a>
+
 | | |
 |----| ----|
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
@@ -159,6 +167,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
 ## Comedy Production <a name="chapter-9"></a>
+
 | | |
 |----| ----|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
