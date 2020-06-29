@@ -14,5 +14,3 @@ title: Gareth's links
 * [Writers' Guild Of Great Britain Profile](https://writersguild.org.uk/profile/?profile=1960)
 * [PBJ Webpage](www.pbjmanagement.co.uk/artists/gareth-gwynn)
 * [Site Webmaster - Tom Natt](http://www.tomnatt.com/)
-
-

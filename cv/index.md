@@ -8,12 +8,12 @@ title: CV of Gareth Gwynn
 
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department's writer's bursary.
 
-## Credits 
+## Credits
 | | | |
 |----| ----| ----|
 | [Sitcoms](#chapter-1) | [Archive And Cut-Up Shows](#chapter-2) | [Documentaries](#chapter-3) |
 | [Satirical Shows](#chapter-4) | [Script Editing](#chapter-5) | [Joke, Sketch and Stand Up Writing](#chapter-6) |
-| [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) | 
+| [Music Radio Presenting](#chapter-7) | [Other Performing](#chapter-8) | [Production](#chapter-9) |
 
 [Awards](#chapter-10)
 
@@ -86,7 +86,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
 | Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
-| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 | 
+| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | Sketchland | Script Editor, BBC Two Scotland, 2015 |
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
@@ -182,7 +182,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | Audio Production Awards - Gethin Thomas Comedy Award – Nomination | 2018 |
 | The Radio Academy ARIAS – Best Entertainment Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
-| Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 | 
+| Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 |
 | Selected for the Prix Marulic Radio Festival, Croatia - The Greatest Ever Faker | 2016 |
 | Celtic Media Festival - Best Comedy Nomination - Here Be Dragons	|	2016 |
 | Celtic Media Festival - Best Documentary Nomination - "...Little Book Of Welsh Independence" | 2015 |
