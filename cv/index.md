@@ -9,6 +9,7 @@ title: CV of Gareth Gwynn
 Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag* (BBC Radio 4), *Tourist Trap* (BBC One Wales), *Bull* (GOLD) and *The Goodies - The Big Ben Theory* (Audible). He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear*. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department’s writer’s bursary.
 
 ## Credits
+
 | | | |
 |----| ----| ----|
 | [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) |
@@ -17,6 +18,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | [Awards](#awards) ||
 
 ## Sitcoms
+
 | | |
 |----| ----|
 | Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
@@ -31,6 +33,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
 
 ## Archive And Cut-Up Shows
+
 | | |
 |----| ----|
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -50,6 +53,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
 ## Documentaries
+
 | | |
 |----| ----|
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
@@ -58,6 +62,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Gareth Gwynn's Little Book Of Welsh Independence | Writer/Presenter, BBC Radio 4, 2014 |
 
 ## Topical and Satirical Shows
+
 | | |
 |----| ----|
 | The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
@@ -78,6 +83,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Tilt | Writer, BBC Radio 7, 2008 |
 
 ## Script Editing
+
 | | |
 |----| ----|
 | Tudur Owen: Zoo	| Script Editor, BBC Radio 4, 2020 |
@@ -92,6 +98,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
 ## Joke, Sketch and Stand Up - Writer
+
 | | |
 |----| ----|
 | Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
@@ -122,6 +129,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Music Radio Presenting
+
 | | |
 |----| ----|
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
@@ -132,6 +140,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 | Gareth Gwynn's Big Night In | Regular Presenter, 106.3 Bridge FM, 2006 |
 
 ## Other Performing
+
 | | |
 |----| ----|
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
@@ -158,6 +167,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 Gareth has also spoken at a number of events including the BBC's Sound: Now And Next Event (2015),  Radio Academy's TechCon (2014), the BBC Wales Leadership Group (2013) and the Radio Academy Festival as part of the session on the 30 Under 30 (2012).
 
 ## Comedy Production
+
 | | |
 |----| ----|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
@@ -172,6 +182,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
 ## Awards
+
 | | |
 |----| ----|
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
