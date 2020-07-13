@@ -6,16 +6,14 @@ title: CV of Gareth Gwynn
 
 # CV
 
-Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag* (BBC Radio 4), *Tourist Trap* (BBC One Wales), *Bull* (GOLD) and *The Goodies - The Big Ben Theory* (Audible). He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear*. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department’s writer’s bursary.
+Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag* (BBC Radio 4), *Tourist Trap* (BBC One Wales), *Bull* (GOLD) and *The Goodies - The Big Ben Theory* (Audible). He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear*. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department’s writer’s bursary.
 
 ## Credits
 
-| | | |
-|----| ----| ----|
-| [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) |
-| [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) | [Joke, Sketch and Stand Up Writing](#joke-sketch-and-stand-up---writer) |
-| [Music Radio Presenting](#music-radio-presenting) | [Other Performing](#other-performing) | [Production](#comedy-production) |
-| [Awards](#awards) ||
+| | | | | | 
+|----| ----| ----| ----| ----|
+| [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
+| [Joke, Sketch and Stand Up Writing](#joke-sketch-and-stand-up---writer) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcoms
 
@@ -72,7 +70,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, radio presenter and producer
 | The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
 | Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
 | XFM Breakfast Show with Jon Holmes | Writer, XFM London, 2013-15 |
-| Have I Got News For You | Writer, BBC One, 2014 |
+| Have I Got News For You (Series 47-48) | Writer, BBC One, 2014 |
 | The Now Show 2012 Live! (Olympic Specials) | Writer, BBC Radio 4, 2012 |
 | Russell Howard's Good News | Additional Material, BBC Three, 2010, 2012 |
 | The News Quiz Extra | Writer/Contributor, BBC Radio 4 Extra, 2011 |
@@ -172,6 +170,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 |----| ----|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
 | O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Satirical Writing Credits) |
+| Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 (c.f. Cut-Up Show Credits)|
 | Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing Credits) |
 | What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing Credits) |
@@ -207,5 +206,3 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | Student Radio Award: Best Comedy: Silver - Because Fish Are Funny | 2003 |
 
 Gareth is a fully paid-up member of the UK Writers' Union, The Writers Guild Of Great Britain (WGGB).
-
-Audio/video from all shows is available on request.
