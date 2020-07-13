@@ -13,7 +13,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio present
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
-| [Joke, Sketch and Stand Up Writing](#joke-sketch-and-stand-up---writer) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sketch and Stand Up Writing](#sketch-and-stand-up---writer) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcoms
 
@@ -95,7 +95,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio present
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
-## Joke, Sketch and Stand Up - Writer
+## Sketch and Stand Up - Writer
 
 | | |
 |----| ----|
