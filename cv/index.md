@@ -8,8 +8,6 @@ title: CV of Gareth Gwynn
 
 Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag* (BBC Radio 4), *Tourist Trap* (BBC One Wales), *Bull* (GOLD) and *The Goodies - The Big Ben Theory* (Audible). He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear*. He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department’s writer’s bursary.
 
-## Credits
-
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
@@ -204,5 +202,3 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | Funny Business: Finalist | 2007 |
 | Student Radio Award: Best Comedy: Gold - Component Parts | 2004 |
 | Student Radio Award: Best Comedy: Silver - Because Fish Are Funny | 2003 |
-
-Gareth is a fully paid-up member of the UK Writers' Union, The Writers Guild Of Great Britain (WGGB).
