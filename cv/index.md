@@ -6,22 +6,20 @@ title: CV of Gareth Gwynn
 
 # CV
 
-Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag* (BBC Radio 4), *Tourist Trap* (BBC One Wales), *Bull* (GOLD) and *The Goodies - The Big Ben Theory* (Audible). He has written for *The News Quiz* (BBC Radio 4), *The Now Show* (BBC Radio 4), *Have I Got News For You* (BBC One) and *Top Gear* (BBC Two). He is a two-time Radio Academy Award winner, a four-time Celtic Media Award nominee, a 4Talent Award winner, an Audible Audio Production Award nominee, a Prix Marulic International Radio Festival nominee and a former recipient of the BBC Radio Comedy department’s writer’s bursary.
-
-Here's a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA (which he hopes makes him sound like a spy).
+Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA.
 
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
-| [Sketch and Stand Up Writing](#sketch-and-stand-up---writer) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sketch/Stand Up Writing](#sketch-and-stand-up---writer) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcoms
 
 | | |
 |----| ----|
-| Ankle Tag	(with Benjamin Partridge) | BBC Radio 2/BBC Radio 4, 2015-20 |
+| Ankle Tag (with Benjamin Partridge) | BBC Radio 2, 2015<br>BBC Radio 4/BBC Radio Wales, 2017-20 |
 | Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19  (cf. Performing Credits)<br>BBC Radio Wales, 2020 (cf. Production Credits)|
-| The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones)	| Audible, 2019 |
+| The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones) | Audible, 2019 |
 | Tony Law: 21st Century Adventurer (Pilot) <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
 | The Coopers Verses The Rest (Pilot) - Additional Material | BBC Two, 2016 |
 | Bull  (with John-Luke Roberts) | GOLD, 2015 |
@@ -37,7 +35,6 @@ Here's a big list of things he's done, nominally split into categories and not i
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
 | The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
-| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
 | Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
@@ -54,6 +51,7 @@ Here's a big list of things he's done, nominally split into categories and not i
 
 | | |
 |----| ----|
+| Gareth Gwynn Declares Independence From Wales | Writer/Presenter, BBC Radio Wales, 2020 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
 | The Greatest Ever Faker | Writer/Presenter, BBC Radio 4, 2016 |
 | Gareth Gwynn's Little Book Of Welsh Rock | Writer/Presenter, BBC Radio 4, 2015 |
@@ -66,6 +64,7 @@ Here's a big list of things he's done, nominally split into categories and not i
 | The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
 | O'r Diwedd | Writer, S4C, 2016-19 (c.f. Production Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
+| Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | The News Quiz | Writer, BBC Radio 4, 2008-17 |
 | The Vote Now Show (Election & EU Specials) | Writer, BBC Radio 4, 2010, 2015-17 |
 | Fred MacAulay’s Wet Hot Political Summer | Writer, BBC Radio 4, 2016 |
@@ -84,22 +83,23 @@ Here's a big list of things he's done, nominally split into categories and not i
 
 | | |
 |----| ----|
-| Tudur Owen: Zoo	| Script Editor, BBC Radio 4, 2020 |
+| Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
+| The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
+| Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
 | Welcome Strangers | Script Editor/Writer , BBC Radio Wales, 2020 |
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
-| Tudur Owen: Where On Earth Is Anglesey?	| Script Editor, BBC Radio 4, 2018 |
-| Felicity Ward: Appisodes	| Script Editor, BBC Radio 4, 2018 |
+| Tudur Owen: Where On Earth Is Anglesey? | Script Editor, BBC Radio 4, 2018 |
 | Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | Sketchland | Script Editor, BBC Two Scotland, 2015 |
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
-## Sketch and Stand Up - Writer
+## Sketch/Stand Up - Writer
 
 | | |
 |----| ----|
-| Top Gear (Series 25-26)	| Programme Associate, BBC Two, 2018-19 |
+| Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
 | Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
 | State Of The Nations | Writer, BBC Radio 4, 2016-17 |
@@ -141,12 +141,12 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 | | |
 |----| ----|
+| The Beef And Dairy Network (Episode 23, 41, 61)	| Performer, Maximum Fun Podcast, 2017-20 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
 | James King's Cinema Stories | Guest, Podcast, 2019 |
 | Any Stupid Questions | Guest, Podcast, 2019 |
-| The Beef And Dairy Network (Episode 23, 41)	| Performer, Maximum Fun Podcast, 2017-18 |
 | International Waters | Panellist, Maximum Fun Podcast, 2016, 2018 |
 | Exploding Brain Myths | Voice Over, Web Series, 2016 |
 | The Leak with Tom Price | Guest, BBC Radio Wales, 2014 |
