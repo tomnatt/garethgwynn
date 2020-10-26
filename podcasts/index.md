@@ -10,7 +10,7 @@ On this page, you'll find links to some of the shows I have appeared in or worke
 
 ## Ankle Tag - BBC Radio 4 (2015-2020)
 
-[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) is a sitcom on BBC Radio 4 which I co-write with Benjamin Partridge and stars Elis James, Katy Wix and Steve Speirs. All three series are currently available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide).
+[Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) is a sitcom on BBC Radio 4 which I co-write with Benjamin Partridge and stars Elis James, Katy Wix and Steve Speirs. All three series are currently available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide), [Audible](https://www.audible.co.uk/pd/Ankle-Tag-Series-1-3-Audiobook/1787538923) and [Penguin](https://www.penguin.co.uk/books/1119136/ankle-tag--series-1-3/9781787538924.html).
 
 ## Tourist Trap - BBC One Wales (2018-2020)
 
