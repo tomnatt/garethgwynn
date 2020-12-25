@@ -7,7 +7,7 @@ set :deploy_to, ENV['GARETH_HOSTING_DIR']
 set :audio_source, ENV['GARETH_SYNC_HOME']
 set :domain, 'garethgwynn.com'
 set :repository, 'git@github.com:tomnatt/garethgwynn.git'
-set :branch, 'master'
+set :branch, 'main'
 
 set :shared_paths, ['afan', 'demos', 'listenagainst', 'otherdemos']
 
