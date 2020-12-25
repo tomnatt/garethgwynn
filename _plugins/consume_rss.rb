@@ -5,8 +5,11 @@ class ConsumeRss < Liquid::Tag
   def initialize(tag_name, text, tokens)
     super
 
-    open(URI.encode(text)) do |rss|
-      @feed = SimpleRSS.parse(rss).items
+    text.strip!
+    if text =~ URI::DEFAULT_PARSER.regexp[:ABS_URI]
+      URI.open(text) do |rss|
+        @feed = SimpleRSS.parse(rss).items
+      end
     end
   end
 
