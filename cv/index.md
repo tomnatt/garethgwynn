@@ -6,7 +6,7 @@ title: CV of Gareth Gwynn
 
 # CV
 
-Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA.
+Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA.
 
 | | | | | | 
 |----| ----| ----| ----| ----|
@@ -61,7 +61,7 @@ Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio present
 
 | | |
 |----| ----|
-| The Now Show | Writer, BBC Radio 4, 2009-20 (cf. Performing Credits) |
+| The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
 | O'r Diwedd | Writer, S4C, 2016-19 (c.f. Production Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
 | Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
@@ -83,10 +83,10 @@ Gareth Gwynn is an experienced Welsh comedy writer, script editor, radio present
 
 | | |
 |----| ----|
+| Welcome Strangers | Script Editor/Writer , BBC Radio Wales, 2020-21 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
 | Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
-| Welcome Strangers | Script Editor/Writer , BBC Radio Wales, 2020 |
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | Tudur Owen: Where On Earth Is Anglesey? | Script Editor, BBC Radio 4, 2018 |
 | Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 |
