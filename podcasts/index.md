@@ -14,7 +14,7 @@ On this page, you'll find links to some of the shows I have appeared in or worke
 
 ## Tourist Trap - BBC One Wales (2018-2020)
 
-[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) is a semi-improvised sitcom in which I supply the voice over as well as co-write the plots with Tudur Owen and Sian Harries. All thirteen episodes are currently available as a [Box Set](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) and a collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage.
+[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) is a semi-improvised sitcom in which I supply the voice over as well as co-write the plots with Tudur Owen and Sian Harries. A collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage.
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07rqrjx/player"></iframe>
 
