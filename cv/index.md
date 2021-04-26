@@ -10,10 +10,10 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 
 | | | | | | 
 |----| ----| ----| ----| ----|
-| [Sitcoms](#sitcoms) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
+| [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
 | [Sketch/Stand Up Writing](#sketch-and-stand-up-writing) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
-## Sitcoms
+## Sitcom Writing
 
 | | |
 |----| ----|
@@ -27,6 +27,8 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 | Social Club FM  (with Elis James and Chris Corcoran) | BBC Radio Wales, 2011-13 |
 | Those That Can't (Series 4) (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (Pilot) (with John-Luke Roberts) | BBC Radio 4, 2010 |
+
+See also [Script Editing](#script-editing).
 
 ## Archive And Cut-Up Shows
 
@@ -83,13 +85,14 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 
 | | |
 |----| ----|
-| Welcome Strangers | Script Editor/Writer , BBC Radio Wales, 2020-21 |
+| Welcome Strangers (Series 1-3) | Script Editor/Writer , BBC Radio Wales, 2020-21 |
+| Beena And Amrit (Sitcom Taster) | Script Editor , BBC Two Wales, 2020-21 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
 | Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
 | The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
 | Tudur Owen: Where On Earth Is Anglesey? | Script Editor, BBC Radio 4, 2018 |
-| Please Hold (Pilot) | Script Editor, BBC Radio Wales, 2017 |
+| Please Hold (Sitcom Pilot)  | Script Editor, BBC Radio Wales, 2017 |
 | Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
 | Sketchland | Script Editor, BBC Two Scotland, 2015 |
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
