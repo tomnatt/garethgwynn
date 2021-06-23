@@ -18,6 +18,18 @@ On this page, you'll find links to some of the shows I have appeared in or worke
 
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07rqrjx/player"></iframe>
 
+## Documentaries - BBC Radio 4 / BBC Radio Wales (2014-2020)
+
+I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics, many of which are still available on BBC Sounds.
+
+"[Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj)" is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.
+
+"[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy)" told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.
+
+"[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records.
+
+"[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.
+
 ## The Goodies: The Big Ben Theory - Audible (2019)
 
 A brand new audio episode of [The Goodies](https://www.audible.co.uk/pd/The-Goodies-Audiobook/B07YN6FSV2), written by John-Luke Roberts and me - with Graeme Garden and Bill Oddie and based on a plot by Barnaby Eaton-Jones.
@@ -51,16 +63,6 @@ Sue Perkins presents facts about animals, with assistance from Margaret Cabourn-
 Sue Perkins' Earpedia Series 1: [Animals](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Animals-Audiobook/B0779GZQQ1?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=c6e316b8-14da-418d-8f91-b3cad83c5183&pf_rd_r=XYJ5TGRXXZS4NKX171YT&)
 
 Sue Perkins' Earpedia Series 2: [Plants](https://www.audible.co.uk/pd/Non-fiction/Sue-Perkins-Earpedia-Plants-Audiobook/B07CTRGBQB?ref=a_pd_Non-fi_c14_moreAuthors_0&pf_rd_p=e451f83d-9b5c-40e4-bc18-48e770df7327&pf_rd_r=TXGVQ9TZYK46B2EXE343&)
-
-## Documentaries - BBC Radio 4 (2014-2016)
-
-I have presented three documentaries for BBC Radio 4 examining Welsh identity, language, culture and politics, all of which are still available on the BBC Radio 4 website.
-
-"[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8)" was broadcast in 2014, ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.
-
-"[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f)" was broadcast in 2015 and continues to cost me a fortune in records.
-
-"[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy)" told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.
 
 ## Bull - Gold (2015)
 
