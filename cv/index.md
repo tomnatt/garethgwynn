@@ -53,6 +53,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits)|
 | Gareth Gwynn Declares Independence From Wales | Writer/Presenter, BBC Radio Wales, 2020 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
 | The Greatest Ever Faker | Writer/Presenter, BBC Radio 4, 2016 |
@@ -173,6 +174,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| Harry Secombe - Unsung Comedian | Producer, BBC Radio Wales, 2021 (cf. Documentaries Credits)|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
 | O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Satirical Writing Credits) |
 | Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 (c.f. Cut-Up Show Credits)|
