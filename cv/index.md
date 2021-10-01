@@ -10,7 +10,7 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 
 | | | | | | 
 |----| ----| ----| ----| ----|
-| [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
+| [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
 | [Sketch/Stand Up Writing](#sketch-and-stand-up-writing) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcom Writing
@@ -49,10 +49,11 @@ See also [Script Editing](#script-editing).
 | Play & Record | Writer/Performer, BBC Radio 7, 2007 |
 | BBC BackChat (Pilot) | Writer/Presenter, BBC Radio 7, 2007 |
 
-## Documentaries
+## Documentaries And Podcasts
 
 | | |
 |----| ----|
+| The Xennial Dome | Presenter, Acast Podcast, 2021 |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits)|
 | Gareth Gwynn Declares Independence From Wales | Writer/Presenter, BBC Radio Wales, 2020 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
@@ -146,8 +147,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 | | |
 |----| ----|
-| The Xennial Dome | Presenter, Acast Podcast, 2021 |
-| Soundheap	| Performer, Auddy Podcast, 2021 || Soundheap	| Performer, Auddy Podcast, 2021 |
+| Soundheap	| Performer, Auddy Podcast, 2021 |
 | The Beef And Dairy Network (Episode 23, 41, 61)	| Performer, Maximum Fun Podcast, 2017-20 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
