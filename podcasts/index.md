@@ -28,12 +28,7 @@ On this page, you'll find links to some of the shows I have appeared in or worke
 
 I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics, many of which are still available on BBC Sounds.
 
-"[Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg)" put Sir Harry's musical legacy to one side and concentrated exclusively on his remarkable (but often overlooked) comedy career. A short video featuring clips of the show is below.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This month marks 100 years since the birth of Welsh legend <br>Sir Harry Secombe.<br><br>This is a tribute to his vital role in the creation and success of<br>The Goon Show. <br><br>Including some fantastic images from <a href="https://twitter.com/BBCArchive?ref_src=twsrc%5Etfw">@BBCArchive</a>...<br><br>🔸 Harry Secombe: Unsung Comedian <br>🎧 Available now <a href="https://twitter.com/BBCSounds?ref_src=twsrc%5Etfw">@BBCSounds</a> <a href="https://t.co/KdWhzDKjg6">pic.twitter.com/KdWhzDKjg6</a></p>&mdash; BBC Radio Wales (@BBCRadioWales) <a href="https://twitter.com/BBCRadioWales/status/1436022742600585218?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<iframe src="https://twitter.com/BBCRadioWales/status/1436022742600585218?ref_src=twsrc%5Etfw" frameBorder="0" width="100%" height="330px"></iframe>
-
+"[Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg)" put Sir Harry's musical legacy to one side and concentrated exclusively on his remarkable (but often overlooked) comedy career.
 
 "[Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj)" is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.
 
