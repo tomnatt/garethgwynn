@@ -20,15 +20,7 @@ On this page, you'll find links to some of the shows I have appeared in or worke
 
 I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics, many of which are still available on BBC Sounds.
 
-[Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg) (2021) <!--put Sir Harry's musical legacy to one side and concentrated exclusively on his remarkable (but often overlooked) comedy career.-->
-
-[Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj) (2020) <!--is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.-->
-
-[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy) (2016) <!--told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.-->
-
-[Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f) (2015) <!--continues to cost me a fortune in records.-->
-
-[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8) (2014) <!--was broadcast ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.-->
+[Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg) (2021) <!--put Sir Harry's musical legacy to one side and concentrated exclusively on his remarkable (but often overlooked) comedy career.-->, [Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj) (2020) <!--is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.-->, [The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy) (2016) <!--told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more.-->, [Gareth Gwynn's Little Book Of Welsh Rock](http://www.bbc.co.uk/programmes/b055g69f) (2015) <!--continues to cost me a fortune in records.--> and [Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8) (2014) <!--was broadcast ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.-->.
 
 <!--### Sue Perkins' Earpedia - Audible (2016-18)
 
