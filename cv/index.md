@@ -34,9 +34,9 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21 (cf. Writing Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
-| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19 (cf. Writing Credits) |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
 | Gareth Gwynn’s Twisted History Of BBC Radio Wales | Writer/Presenter, BBC Radio Wales, 2018 |
 | Elis James: Cic Lan yr Archif	| Writer, S4C, 2018 |
@@ -65,8 +65,8 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| O'r Diwedd | Writer, S4C, 2016-19, 2021 (c.f. Production Credits) |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
-| O'r Diwedd | Writer, S4C, 2016-19 (c.f. Production Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
 | Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
 | The News Quiz | Writer, BBC Radio 4, 2008-17 |
@@ -87,9 +87,9 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
-| Beena And Amrit (Sitcom Pilot) | Script Editor , BBC Radio Wales, 2021 |
-| Welcome Strangers (Series 1-3) | Script Editor/Writer , BBC Radio Wales, 2020-21 |
-| Beena And Amrit (Sitcom Taster) | Script Editor , BBC Two Wales, 2021 |
+| Beena And Amrit (Sitcom Pilot) | Script Editor, BBC One Wales, 2021 |
+| Beena And Amrit (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2021 |
+| Welcome Strangers (Series 1-3) | Script Editor/Writer, BBC Radio Wales, 2020-21 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
 | Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
@@ -192,6 +192,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - O'r Diwedd 2017	|	2019 |
@@ -200,7 +201,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 |
 | Selected for the Prix Marulic Radio Festival, Croatia - The Greatest Ever Faker | 2016 |
-| Celtic Media Festival - Best Comedy Nomination - Here Be Dragons	|	2016 |
+| Celtic Media Festival - Best Radio Comedy Nomination - Here Be Dragons	|	2016 |
 | Celtic Media Festival - Best Documentary Nomination - "...Little Book Of Welsh Independence" | 2015 |
 | Radio Academy Bronze Award - Writer / Script Editor on Here Be Dragons | 2014 |
 | No. 6 on Western Mail’s 25 Home Grown Comedy Stars List | 2013 |
