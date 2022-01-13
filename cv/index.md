@@ -11,7 +11,7 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
-| [Sketch/Stand Up Writing](#sketch-and-stand-up-writing) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sketch/Stand Up/Entertainment](#sketch-stand-up-and-entertainment) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcom Writing
 
@@ -101,12 +101,13 @@ See also [Script Editing](#script-editing).
 | Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
 | Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
-## Sketch and Stand Up Writing
+## Sketch And Entertainment
 
 | | |
 |----| ----|
+| Panic Room | Writer, Audible, 2021 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
-| Sue Perkins' Earpedia | Writer, Audible Originals, 2017-18 |
+| Sue Perkins' Earpedia | Writer, Audible, 2017-18 |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
 | State Of The Nations | Writer, BBC Radio 4, 2016-17 |
 | Now The Twelfth Night Show | Writer, BBC Radio 4, 2017 |
