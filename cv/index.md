@@ -11,7 +11,7 @@ Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | [Script Editing](#script-editing) |
-| [Sketch/Stand Up/Entertainment](#sketch-stand-up-and-entertainment) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sketch And Entertainment](#sketch-and-entertainment) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcom Writing
 
