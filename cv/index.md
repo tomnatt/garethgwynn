@@ -53,7 +53,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
-| The Xennial Dome | Presenter, Acast Podcast, 2021 |
+| The Xennial Dome | Presenter, Acast Podcast, 2021-22 |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits)|
 | Gareth Gwynn Declares Independence From Wales | Writer/Presenter, BBC Radio Wales, 2020 |
 | The Welsh Under Canvas | Writer/Presenter, BBC Radio Wales, 2017 |
@@ -105,7 +105,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
-| Panic Room | Writer, Audible, 2021 |
+| Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
 | Sue Perkins' Earpedia | Writer, Audible, 2017-18 |
 | The Dave Berry Breakfast Show (Online Content) | Writer, Absolute Radio, 2018 |
@@ -131,7 +131,7 @@ See also [Script Editing](#script-editing).
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for panel shows including The Unbelievable Truth (BBC Radio 4, 2017-18), Mock The Week (BBC One, 2011-6), Show and Tell (E4, 2011) and What’s The Story? (BBC Radio Wales, 2010-11) and assisted in the writing of stand-up material for Edinburgh shows.
+Gareth has also assisted a number of comics prepare for panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4), Mock The Week (BBC One), Show and Tell (E4) and What’s The Story? (BBC Radio Wales) and assisted in the writing of stand-up material for Edinburgh shows.
 
 ## Music Radio Presenting
 
