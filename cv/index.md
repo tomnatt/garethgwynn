@@ -53,6 +53,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits)|
 | The Xennial Dome | Presenter, Acast Podcast, 2021-22 |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits)|
 | Gareth Gwynn Declares Independence From Wales | Writer/Presenter, BBC Radio Wales, 2020 |
@@ -87,9 +88,10 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Welcome Strangers (Series 1-4) | Script Editor/Writer, BBC Radio Wales, 2020-22 |
+| Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 |
+| Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
 | Beena And Amrit (Sitcom Pilot) | Script Editor, BBC One Wales, 2021 |
-| Beena And Amrit (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2021 |
-| Welcome Strangers (Series 1-3) | Script Editor/Writer, BBC Radio Wales, 2020-21 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
 | Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
@@ -105,6 +107,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Clonc | Writer, BBC Radio Cymru, 2022 |
 | Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
 | Sue Perkins' Earpedia | Writer, Audible, 2017-18 |
@@ -176,6 +179,8 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Production Credits)|
+| Archive On 4: The Ministry Of Fun | Archive Research, BBC Radio 4, 2022 |
 | Harry Secombe - Unsung Comedian | Producer, BBC Radio Wales, 2021 (cf. Documentaries Credits)|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
 | O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Satirical Writing Credits) |
