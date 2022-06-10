@@ -1,7 +1,7 @@
 ---
 layout: layout
-description: CV of Gareth Gwynn
-title: CV of Gareth Gwynn
+description: About Gareth Gwynn
+title: About Gareth Gwynn
 ---
 
 # About Gareth Gwynn
