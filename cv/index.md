@@ -4,7 +4,7 @@ description: CV of Gareth Gwynn
 title: CV of Gareth Gwynn
 ---
 
-# CV
+# About Gareth Gwynn
 
 Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA.
 
