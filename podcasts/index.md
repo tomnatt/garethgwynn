@@ -1,7 +1,7 @@
 ---
 layout: layout
-description: Podcasts and Videos of Gareth Gwynn
-title: Podcasts and Videos of Gareth Gwynn
+description: Watch and/or Listen to Gareth Gwynn
+title: Watch and/or Listen to Gareth Gwynn
 ---
 
 # Watch/Listen
