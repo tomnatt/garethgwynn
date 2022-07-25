@@ -53,6 +53,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits)|
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits)|
 | The Xennial Dome | Presenter, Acast Podcast, 2021-22 |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits)|
@@ -179,7 +180,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
-| Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Production Credits)|
+| Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Documentaries Credits)|
 | Archive On 4: The Ministry Of Fun | Archive Research, BBC Radio 4, 2022 |
 | Harry Secombe - Unsung Comedian | Producer, BBC Radio Wales, 2021 (cf. Documentaries Credits)|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
