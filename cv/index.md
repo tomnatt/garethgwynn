@@ -6,7 +6,7 @@ title: About Gareth Gwynn
 
 # About Gareth Gwynn
 
-Gareth Gwynn is an experienced comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories and not including the ones where he had to sign an NDA.
+Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
 
 | | | | | | 
 |----| ----| ----| ----| ----|
@@ -152,6 +152,7 @@ Gareth has also assisted a number of comics prepare for panel shows including Th
 
 | | |
 |----| ----|
+| NonCensored	| Performer, Lead Mojo Podcast, 2022 |
 | Soundheap	| Performer, Auddy Podcast, 2021 |
 | The Beef And Dairy Network (Episode 23, 41, 61)	| Performer, Maximum Fun Podcast, 2017-20 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
