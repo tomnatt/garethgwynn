@@ -67,7 +67,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
-| O'r Diwedd | Writer, S4C, 2016-19, 2021 (c.f. Production Credits) |
+| O'r Diwedd | Writer, S4C, 2016-19, 2021-22 (c.f. Production Credits) |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
 | Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
@@ -89,6 +89,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Double Top (Sitcom Pilot) | Script Editor, BBC Radio Wales, 2022 |
 | Welcome Strangers (Series 1-4) | Script Editor/Writer, BBC Radio Wales, 2020-22 |
 | Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 |
 | Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
@@ -108,6 +109,7 @@ See also [Script Editing](#script-editing).
 
 | | |
 |----| ----|
+| Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Clonc | Writer, BBC Radio Cymru, 2022 |
 | Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
