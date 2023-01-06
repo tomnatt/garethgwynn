@@ -17,6 +17,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Ministry Of Happiness | BBC Radio Wales, 2023 |
 | Ankle Tag (with Benjamin Partridge) | BBC Radio 2, 2015<br>BBC Radio 4/BBC Radio Wales, 2017-20 |
 | Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19  (cf. Performing Credits)<br>BBC Radio Wales, 2020 (cf. Production Credits)|
 | The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones) | Audible, 2019 |
