@@ -10,46 +10,28 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | | | | | 
 |----| ----| ----| ----| ----|
-| [Sitcom Writing](#sitcom-writing) | [Script Editing](#script-editing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | 
-| [Sketch And Entertainment](#sketch-and-entertainment) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | [Sketch And Entertainment](#sketch-and-entertainment) |
+| [Script Editing](#script-editing) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcom Writing
 
 | | |
 |----| ----|
 | Ministry Of Happiness | BBC Radio Wales, 2023 |
+| Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
+| Double Top | Script Editor, BBC Radio Wales, 2022-23 |
+| Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 <br>Script Editor, BBC One Wales, 2021 |
 | Ankle Tag (with Benjamin Partridge) | BBC Radio 2, 2015<br>BBC Radio 4/BBC Radio Wales, 2017-20 |
 | Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19  (cf. Performing Credits)<br>BBC Radio Wales, 2020 (cf. Production Credits)|
 | The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones) | Audible, 2019 |
 | Tony Law: 21st Century Adventurer <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
+| Please Hold  | Script Editor, BBC Radio Wales, 2017 |
 | The Coopers Verses The Rest - Additional Material | BBC Two, 2016 |
 | Bull  (with John-Luke Roberts) | GOLD, 2015 |
 | Passing On | BBC Radio Wales, 2014 |
 | Social Club FM  (with Elis James and Chris Corcoran) | BBC Radio Wales, 2011-13 |
 | Those That Can't - Series 4 (with Chris Corcoran) | BBC Radio Wales, 2012 |
 | Antiquity (with John-Luke Roberts) | BBC Radio 4, 2010 |
-
-See also [Script Editing](#script-editing).
-
-## Script Editing
-
-| | |
-|----| ----|
-| Double Top | Script Editor, BBC Radio Wales, 2022-23 |
-| Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
-| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-22 |
-| Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 <br>Script Editor, BBC One Wales, 2021 |
-| Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
-| Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
-| The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
-| Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
-| The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
-| Tudur Owen: Where On Earth Is Anglesey? | Script Editor, BBC Radio 4, 2018 |
-| Please Hold (Sitcom Pilot)  | Script Editor, BBC Radio Wales, 2017 |
-| Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
-| Sketchland | Script Editor, BBC Two Scotland, 2015 |
-| Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
-| Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
 ## Archive And Cut-Up Shows
 
@@ -107,7 +89,7 @@ See also [Script Editing](#script-editing).
 | Tilt | Writer, BBC Radio 7, 2008 |
 
 ## Sketch And Entertainment
--
+
 | | |
 |----| ----|
 | Clonc | Writer, BBC Radio Cymru, 2022-23 |
@@ -139,6 +121,23 @@ See also [Script Editing](#script-editing).
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
 Gareth has also assisted a number of comics prepare for panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4), Mock The Week (BBC One), Show and Tell (E4) and What’s The Story? (BBC Radio Wales) and assisted in the writing of stand-up material for Edinburgh shows.
+
+## Script Editing
+This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
+
+| | |
+|----| ----|
+| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-22 |
+| Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
+| Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
+| The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
+| Tudur Owen: Zoo | Script Editor, BBC Radio 4, 2020 |
+| The Joy Of Text | Script Editor, BBC Radio 4, 2019 |
+| Tudur Owen: Where On Earth Is Anglesey? | Script Editor, BBC Radio 4, 2018 |
+| Newsjack | Script Editor (Series 2-6), BBC Radio 7 / 4 Extra, 2010-12<br>Writer (Pilot & Series 1-7), BBC Radio 7 / 4 Extra, 2009-12 |
+| Sketchland | Script Editor, BBC Two Scotland, 2015 |
+| Here Be Dragons | Script Editor/Writer , BBC Radio Wales, 2013-15 |
+| Reception | Script Editor/Writer, BBC Radio 2, 2011 |
 
 ## Music Radio Presenting
 
