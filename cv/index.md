@@ -17,21 +17,21 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| Ministry Of Happiness | BBC Radio Wales, 2023 |
+| Ministry Of Happiness | Writer, BBC Radio Wales, 2023 |
 | Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
 | Double Top | Script Editor, BBC Radio Wales, 2022-23 |
 | Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 <br>Script Editor, BBC One Wales, 2021 |
-| Ankle Tag (with Benjamin Partridge) | BBC Radio 2, 2015<br>BBC Radio 4/BBC Radio Wales, 2017-20 |
-| Tourist Trap (with Sian Harries and Tudur Owen) | BBC One Wales, 2018-19  (cf. Performing Credits)<br>BBC Radio Wales, 2020 (cf. Production Credits)|
-| The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones) | Audible, 2019 |
-| Tony Law: 21st Century Adventurer <br> (with John-Luke Roberts) | BBC Radio 4, 2017 |
+| Ankle Tag (with Benjamin Partridge) | Writer, BBC Radio 2, 2015<br>Writer, BBC Radio 4/BBC Radio Wales, 2017-20 |
+| Tourist Trap (with Sian Harries and Tudur Owen) | Writer, BBC One Wales, 2018-19  (cf. Performing Credits)<br>Writer, BBC Radio Wales, 2020 (cf. Production Credits)|
+| The Goodies - The Big Ben Theory (with John-Luke Roberts, <br> Graeme Garden, Bill Oddie and Barnaby Eaton-Jones) | Writer, Audible, 2019 |
+| Tony Law: 21st Century Adventurer <br> (with John-Luke Roberts) | Writer, BBC Radio 4, 2017 |
 | Please Hold  | Script Editor, BBC Radio Wales, 2017 |
-| The Coopers Verses The Rest - Additional Material | BBC Two, 2016 |
-| Bull  (with John-Luke Roberts) | GOLD, 2015 |
-| Passing On | BBC Radio Wales, 2014 |
-| Social Club FM  (with Elis James and Chris Corcoran) | BBC Radio Wales, 2011-13 |
-| Those That Can't - Series 4 (with Chris Corcoran) | BBC Radio Wales, 2012 |
-| Antiquity (with John-Luke Roberts) | BBC Radio 4, 2010 |
+| The Coopers Verses The Rest | Additional Material, BBC Two, 2016 |
+| Bull  (with John-Luke Roberts) | Writer, GOLD, 2015 |
+| Passing On | Writer, BBC Radio Wales, 2014 |
+| Social Club FM  (with Elis James and Chris Corcoran) | Writer, BBC Radio Wales, 2011-13 |
+| Those That Can't - Series 4 (with Chris Corcoran) | Writer, BBC Radio Wales, 2012 |
+| Antiquity (with John-Luke Roberts) | Writer, BBC Radio 4, 2010 |
 
 ## Archive And Cut-Up Shows
 
