@@ -206,7 +206,8 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | | |
 |----| ----|
 | Celtic Media Festival - Best Radio Comedy Nomination - Clonc |	2023 |
-| Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo |	2021 |
+| Celtic Media Festival - Best Radio Comedy Nomination - Beena And Amrit (Script Editor) |	2023 |
+| Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo (Script Editor) |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - O'r Diwedd 2017	|	2019 |
