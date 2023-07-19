@@ -70,6 +70,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| The Newsmakers | Writer, BBC Radio 4, 2023 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
@@ -92,7 +93,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| Clonc | Writer, BBC Radio Cymru, 2022-23 |
+| Radio Clonc | Writer, BBC Radio Cymru, 2022-23 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
@@ -154,6 +155,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century (Episode 61, 68) | Guest, Podcast, 2023 |
 | The Way They Were (Episode 55) | Guest, Podcast, 2023 |
@@ -205,7 +207,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
-| Celtic Media Festival - Best Radio Comedy Nomination - Clonc |	2023 |
+| Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Beena And Amrit (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo (Script Editor) |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
