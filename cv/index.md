@@ -6,12 +6,12 @@ title: About Gareth Gwynn
 
 # About Gareth Gwynn
 
-Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former recipient of the BBC Radio Comedy department’s writer’s bursary. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
+Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former BBC Radio Comedy department contract writer. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
 
 | | | | | | 
 |----| ----| ----| ----| ----|
-| [Sitcom Writing](#sitcom-writing) | [Archive And Cut-Up Shows](#archive-and-cut-up-shows) | [Documentaries](#documentaries-and-podcasts) | [Satirical Shows](#topical-and-satirical-shows) | [Sketch And Entertainment](#sketch-and-entertainment) |
-| [Script Editing](#script-editing) | [Music Radio Presenting](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
+| [Sitcom](#sitcom-writing) | [Archive And Cut-Up](#archive-and-cut-up-shows) | [Documentary](#documentaries-and-podcasts) | [Satirical](#topical-and-satirical-shows) | [Sketch/Entertainment](#sketch-and-entertainment) |
+| [Script Editing](#script-editing) | [Music Radio](#music-radio-presenting) | [Performing](#other-performing) | [Production](#comedy-production) | [Awards](#awards) |
 
 ## Sitcom Writing
 
