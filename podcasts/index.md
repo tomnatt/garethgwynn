@@ -5,7 +5,7 @@ title: Watch and/or Listen to Gareth Gwynn
 ---
 
 # Watch/Listen
-Skip to [Sitcoms](#sitcoms), [Archive Shows](#archive-shows), [Documentaries](#documentaries) or [Podcasts](#podcasts).
+On this page you'll find links to [Sitcoms](#sitcoms), [Archive Shows](#archive-shows), [Documentaries](#documentaries) and [Podcasts](#podcasts).
 
 ## Sitcoms
 ### Ankle Tag
@@ -13,7 +13,7 @@ Skip to [Sitcoms](#sitcoms), [Archive Shows](#archive-shows), [Documentaries](#d
 
 ### Tourist Trap
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07rqrjx/player"></iframe>
-[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) was a semi-improvised sitcom on which I supplied the voice over and co-wrote the plots with Tudur Owen and Sian Harries. A collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage.
+[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) was a semi-improvised sitcom on which I co-wrote the plots with Tudur Owen and Sian Harries (and where I also supplied the voice over). A collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage.
 
 ### The Goodies: The Big Ben Theory
 A brand new audio episode of [The Goodies](https://www.audible.co.uk/pd/The-Goodies-Audiobook/B07YN6FSV2), written by John-Luke Roberts and me - with Graeme Garden and Bill Oddie and based on a plot by Barnaby Eaton-Jones.
@@ -25,7 +25,7 @@ John-Luke Roberts and I created and wrote this sitcom starring Robert Lindsay, M
 
 ## Archive Shows
 ### The Now Show
-My most recent appearence on The Now Show is on the [Friday Night Comedy Podcast](https://www.bbc.co.uk/sounds/play/p0b3wp3q). My first three appearences are on this [Audioboom playlist](https://audioboom.com/playlists/1291123-gareth-gwynn-on-the-now-show) and the fourth co-incided with the 50th Anniversary of BBC Local Radio.
+My most recent appearence on The Now Show is on the [Friday Night Comedy Podcast](https://www.bbc.co.uk/sounds/play/p0b3wp3q), my first three appearences are on this [Audioboom playlist](https://audioboom.com/playlists/1291123-gareth-gwynn-on-the-now-show) and the fourth co-incided with the 50th Anniversary of BBC Local Radio.
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05p3rmx/player"></iframe>
 
 ### Gareth Gwynn's Alternative Archive
@@ -36,13 +36,12 @@ I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cut
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p05rf7sv/player"></iframe>
 
 ### The Gareth Gwynn Show
-I was a regular presenter on BBC Radio Wales for seven years. A handful of best-bits can be found on the [BBC Radio Wales show page](https://www.bbc.co.uk/programmes/b00wt6xy/clips)
+I was a regular presenter on BBC Radio Wales for seven years and a handful of best-bits can be found on the [BBC Radio Wales show page](https://www.bbc.co.uk/programmes/b00wt6xy/clips)
 
 ## Documentaries
-I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics some of which are still available on BBC Sounds.
+I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics some of which are still available on BBC Sounds.<br>
 [Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj) <!--is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.--><br>[The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy) <!--told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more, [Gareth Gwynn's Little Book Of Welsh Rock](https://www.bbc.co.uk/programmes/m001gdwp) (2015) continues to cost me a fortune in records and --><br>[Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8) <!--was broadcast ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.-->
-<!--The following video, featuring clips of the show, was made to promote [Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg) (2021).
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This month marks 100 years since the birth of Welsh legend <br>Sir Harry Secombe.<br><br>This is a tribute to his vital role in the creation and success of<br>The Goon Show. <br><br>Including some fantastic images from <a href="https://twitter.com/BBCArchive?ref_src=twsrc%5Etfw">@BBCArchive</a>...<br><br> Harry Secombe: Unsung Comedian <br>🎧 Available now <a href="https://twitter.com/BBCSounds?ref_src=twsrc%5Etfw">@BBCSounds</a> <a href="https://t.co/KdWhzDKjg6">pic.twitter.com/KdWhzDKjg6</a></p>&mdash; BBC Radio Wales (@BBCRadioWales) <a href="https://twitter.com/BBCRadioWales/status/1436022742600585218?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<!--The following video, featuring clips of the show, was made to promote [Harry Secombe - Unsung Comedian](https://www.bbc.co.uk/programmes/m000z7bg) (2021).<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This month marks 100 years since the birth of Welsh legend <br>Sir Harry Secombe.<br><br>This is a tribute to his vital role in the creation and success of<br>The Goon Show. <br><br>Including some fantastic images from <a href="https://twitter.com/BBCArchive?ref_src=twsrc%5Etfw">@BBCArchive</a>...<br><br> Harry Secombe: Unsung Comedian <br>🎧 Available now <a href="https://twitter.com/BBCSounds?ref_src=twsrc%5Etfw">@BBCSounds</a> <a href="https://t.co/KdWhzDKjg6">pic.twitter.com/KdWhzDKjg6</a></p>&mdash; BBC Radio Wales (@BBCRadioWales) <a href="https://twitter.com/BBCRadioWales/status/1436022742600585218?ref_src=twsrc%5Etfw">September 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 ## Podcasts
 ### The Xennial Dome
