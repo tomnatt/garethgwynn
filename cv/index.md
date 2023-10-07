@@ -70,8 +70,8 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| The Newsmakers | Writer, BBC Radio 4, 2023 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
+| The Newsmakers | Writer, BBC Radio 4, 2023 |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
 | We Need To Talk About… | Writer, Spotify, 2017-19 |
 | Live At Eleven | Performer/Devisor, BBC Radio 4, 2019 |
@@ -93,6 +93,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023 |
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-23 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
@@ -121,7 +122,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4), Mock The Week (BBC One), Show and Tell (E4) and What’s The Story? (BBC Radio Wales) and assisted in the writing of stand-up material for Edinburgh shows.
+Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4) and Mock The Week (BBC One) and has assisted in the writing of stand-up material for tours and Edinburgh shows.
 
 ## Script Editing
 This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
@@ -158,10 +159,10 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | NonCensored	| Performer, Podcast, 2022-23 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
-| The British Broadcasting Century (Episode 61, 68) | Guest, Podcast, 2023 |
-| The Way They Were (Episode 55) | Guest, Podcast, 2023 |
+| The British Broadcasting Century | Guest, Podcast, 2023 |
+| The Way They Were | Guest, Podcast, 2023 |
 | Soundheap	| Performer, Podcast, 2021 |
-| The Beef And Dairy Network (Episode 23, 41, 61)	| Performer, Podcast, 2017-20 |
+| The Beef And Dairy Network	| Performer, Podcast, 2017-20 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
@@ -188,16 +189,16 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| O'r Diwedd | Creative Producer, S4C, 2016-23 (c.f. Satirical Writing Credits) |
 | Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Documentaries Credits)|
 | Archive On 4: The Ministry Of Fun | Archive Research, BBC Radio 4, 2022 |
 | Harry Secombe - Unsung Comedian | Producer, BBC Radio Wales, 2021 (cf. Documentaries Credits)|
 | Tourist Trap - The Stay At Home Special | Producer, BBC Radio Wales, 2020 (c.f. Sitcom Writing Credits) |
-| O'r Diwedd | Creative Producer, S4C, 2016-19 (c.f. Satirical Writing Credits) |
 | Just A Minute: 50 Years In 28 Minutes	| Producer, BBC Radio 4, 2017 (c.f. Cut-Up Show Credits)|
 | Phil & Alice's Comedy Night | Development Producer, BBC Radio 1, 2013 |
 | Social Club FM (Pilot) | Producer, BBC Radio Wales, 2011 (cf. Writing Credits) |
-| What’s The Story? (Series 2-4) | Producer, BBC Radio Wales, 2010-11 (cf. Performing Credits) |
-| Jest A Minute with Rhod Gilbert (Series 2) | Producer, BBC Radio Wales, 2008 |
+| What’s The Story? | Producer, BBC Radio Wales, 2010-11 (cf. Performing Credits) |
+| Jest A Minute with Rhod Gilbert | Producer, BBC Radio Wales, 2008 |
 | The Rhod Gilbert Show | Stand-in Producer, BBC Radio Wales, 2008 (cf. Presenting Credits) |
 | The Roop & Tom Breakfast Show | Producer, XFM South Wales, 2007-8 |
 
