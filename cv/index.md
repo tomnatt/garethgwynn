@@ -56,7 +56,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| The Xennial Dome | Presenter, Podcast, 2021-23 |
+| The Xennial Dome | Presenter, Podcast, 2021, 23-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits) |
@@ -93,6 +93,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| United Thingdom | Writer, BBC Radio 4, 2024 |
 | BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023 |
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-23 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
@@ -122,7 +123,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4) and Mock The Week (BBC One) and has assisted in the writing of stand-up material for tours and Edinburgh shows.
+Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4) and Mock The Week (BBC One) and has assisted in the writing of stand-up material for tours and Edinburgh shows (2018-24).
 
 ## Script Editing
 This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
@@ -156,13 +157,13 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
 | NonCensored	| Performer, Podcast, 2022-23 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century | Guest, Podcast, 2023 |
 | The Way They Were | Guest, Podcast, 2023 |
 | Soundheap	| Performer, Podcast, 2021 |
-| The Beef And Dairy Network	| Performer, Podcast, 2017-20 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
