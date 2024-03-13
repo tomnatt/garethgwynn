@@ -37,7 +37,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21 (cf. Writing Credits) |
+| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21, 24 (cf. Writing Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
@@ -209,7 +209,9 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
+| BBC Drama Awards - Best Comedy - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Beena And Amrit (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo (Script Editor) |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
