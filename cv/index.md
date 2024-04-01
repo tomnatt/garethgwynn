@@ -37,6 +37,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Archive On 4: Gareth Gwynn Hasn't Fin- | Writer/Presenter, BBC Radio 4, 2024 |
 | The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21, 24 (cf. Writing Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
@@ -157,8 +158,9 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
-| NonCensored	| Performer, Podcast, 2022-23 |
+| NonCensored	| Performer, Podcast, 2022-24 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century | Guest, Podcast, 2023 |
