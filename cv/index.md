@@ -6,7 +6,7 @@ title: About Gareth Gwynn
 
 # About Gareth Gwynn
 
-Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former BBC Radio Comedy department contract writer. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
+Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the writer or co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former BBC Radio Comedy department contract writer. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
 
 | | | | | | 
 |----| ----| ----| ----| ----|
@@ -17,6 +17,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Trying | Additional Material, Apple TV, 2024 |
 | Ministry Of Happiness | Writer, BBC Radio Wales, 2023 |
 | Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
 | Double Top | Script Editor, BBC Radio Wales, 2022-23 |
@@ -158,6 +159,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Soundheap	| Performer, Podcast, 2021, 24 |
 | Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
 | NonCensored	| Performer, Podcast, 2022-24 |
@@ -192,6 +194,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| Archive On 4: Rik Mayall, Panglobal Phenomenon | Producer, BBC Radio 4, 2024 |
 | O'r Diwedd | Creative Producer, S4C, 2016-23 (c.f. Satirical Writing Credits) |
 | Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Documentaries Credits)|
 | Archive On 4: The Ministry Of Fun | Archive Research, BBC Radio 4, 2022 |
