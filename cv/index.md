@@ -39,7 +39,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | | |
 |----| ----|
 | Archive On 4: Gareth Gwynn Hasn't Fin- | Writer/Presenter, BBC Radio 4, 2024 |
-| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21, 24 (cf. Writing Credits) |
+| The Now Show | Performer, BBC Radio 4, 2011-24 (cf. Topical Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
@@ -72,6 +72,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| TL;DR | Performer, BBC Radio 4, 2024 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Newsmakers | Writer, BBC Radio 4, 2023 |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
@@ -132,7 +133,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
-| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-22 |
+| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-24 |
 | Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
