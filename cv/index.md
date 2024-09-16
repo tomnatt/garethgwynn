@@ -215,6 +215,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Independent Podcast Awards - Best Comedy Nomination - The Xennial Dome |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
 | BBC Drama Awards - Best Comedy - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
