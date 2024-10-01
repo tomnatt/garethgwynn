@@ -58,7 +58,8 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| The Xennial Dome | Presenter, Podcast, 2021, 23-24 |
+| I'm So Not Over It | Presenter, Podcast, 2024 |
+| The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits) |
@@ -96,9 +97,9 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
+| BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023-24 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
-| BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023 |
-| Radio Clonc | Writer, BBC Radio Cymru, 2022-23 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
@@ -168,7 +169,6 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century | Guest, Podcast, 2023 |
 | The Way They Were | Guest, Podcast, 2023 |
-| Soundheap	| Performer, Podcast, 2021 |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
