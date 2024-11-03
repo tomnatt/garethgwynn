@@ -65,6 +65,32 @@ $overall-padding: 2rem 3rem;
         }
       }
     }
+
+    .homenav {
+      padding: 0;
+
+      .navitem {
+        height: 10rem;
+
+        a {
+          display: grid;
+          justify-content: center;
+          align-content: center;
+          height: 97%;
+          width: 97%;
+          background-color: $highlight;
+          border: 1px solid $light-grey;
+
+          color: $black;
+          text-decoration: none;
+          transition: background 300ms ease;
+          &:hover {
+            text-decoration: underline;
+            background-color: $highlight-hover;
+          }
+        }
+      }
+    }
   }
 
   footer {
