@@ -40,10 +40,10 @@ $overall-padding: 2rem 3rem;
   section {
     font-family: $body-font-family;
 
-    .highlights {
+    .homenav {
       padding: 0;
 
-      .highlight {
+      .navitem {
         height: 10rem;
 
         a {
@@ -66,10 +66,10 @@ $overall-padding: 2rem 3rem;
       }
     }
 
-    .homenav {
+    .highlights {
       padding: 0;
 
-      .navitem {
+      .highlight {
         height: 10rem;
 
         a {
