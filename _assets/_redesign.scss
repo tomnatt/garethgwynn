@@ -70,13 +70,65 @@ $overall-padding: 2rem 3rem;
       padding: 0;
 
       .highlight {
-        height: 10rem;
+        gap: 5px;
 
-        a {
+        &.tourist-trap {
+          background-image: url("/images/highlights/tourist_trap.png");
+          width: 484px;
+          height: 272px;
+          background-repeat: no-repeat;
+          padding: 0 2px;
+          &:hover {
+            opacity: 0.5;
+          }
+
+          a {
+            display: block;
+            height: inherit;
+            width: inherit;
+            content-visibility: hidden;
+          }
+        }
+        &.ankle-tag {
+          background-image: url("/images/highlights/ankle_tag.png");
+          width: 318px;
+          height: 320px;
+          background-repeat: no-repeat;
+          padding: 0 2px;
+          &:hover {
+            opacity: 0.5;
+          }
+
+          a {
+            display: block;
+            height: inherit;
+            width: inherit;
+            content-visibility: hidden;
+          }
+        }
+        &.goodies {
+          background-image: url("/images/highlights/goodies.jpg");
+          width: 320px;
+          height: 320px;
+          background-repeat: no-repeat;
+          padding: 0 2px;
+          &:hover {
+            opacity: 0.5;
+          }
+
+          a {
+            display: block;
+            height: inherit;
+            width: inherit;
+            content-visibility: hidden;
+          }
+        }
+
+        &.other a {
+          height: 10rem;
           display: grid;
           justify-content: center;
           align-content: center;
-          height: 97%;
           width: 97%;
           background-color: $highlight;
           border: 1px solid $light-grey;
@@ -88,6 +140,8 @@ $overall-padding: 2rem 3rem;
             text-decoration: underline;
             background-color: $highlight-hover;
           }
+
+
         }
       }
     }
