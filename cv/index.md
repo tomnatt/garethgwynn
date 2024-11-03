@@ -2,6 +2,7 @@
 layout: layout
 description: About Gareth Gwynn
 title: About Gareth Gwynn
+include_nav: true
 ---
 
 # About Gareth Gwynn

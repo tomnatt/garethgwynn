@@ -2,6 +2,7 @@
 layout: layout
 description: Contact page
 title: Contact Gareth
+include_nav: true
 ---
 
 # Contact Gareth

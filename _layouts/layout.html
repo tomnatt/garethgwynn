@@ -17,13 +17,17 @@
     <header>
       <h1>Gareth Gwynn</h1>
       <h2>Comedy Writer, Presenter &amp; Producer </h2>
+
+      {% if page.include_nav == true %}
       <nav>
         <ul class="pure-g">
-          <li class="pure-u-1-3"><a href="/">Home</a></li>
-          <li class="pure-u-1-3"><a href="/cv/">More about me</a></li>
-          <li class="pure-u-1-3"><a href="/contact/">Contact me</a></li>
+          <li class="pure-u-1-4"><a href="/">Home</a></li>
+          <li class="pure-u-1-4"><a href="/press/">Reviews and press</a></li>
+          <li class="pure-u-1-4"><a href="/cv/">More about me</a></li>
+          <li class="pure-u-1-4"><a href="/contact/">Contact me</a></li>
         </ul>
       </nav>
+      {% endif %}
     </header>
 
     <section>
