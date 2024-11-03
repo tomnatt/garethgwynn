@@ -1,13 +1,6 @@
 ---
 ---
 
-@import "_settings.scss";
-
-/* Each individual part of foundation that can be added in */
-@import "../_foundation/scss/foundation/components/grid";
-@import "../_foundation/scss/foundation/components/type";
-@import "../_foundation/scss/foundation/components/inline-lists";
-@import "../_foundation/scss/foundation/components/tables";
-
 // import site scss
-@import "_garethsite.scss"
+// @import "_garethsite.scss"
+@import "_redesign.scss";
