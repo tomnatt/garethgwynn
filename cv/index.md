@@ -58,7 +58,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| I'm So Not Over It | Presenter, Podcast, 2024 |
+| I'm So Not Over It | Presenter, Podcast, 2024-25 |
 | The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
@@ -73,6 +73,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| I Can't Get Over 2024	| Writer/Presenter, BBC Radio Wales, 2024 |
 | TL;DR | Performer, BBC Radio 4, 2024 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Newsmakers | Writer, BBC Radio 4, 2023 |
@@ -161,6 +162,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Out Of Character	| Guest, Podcast, 2024 |
 | Soundheap	| Performer, Podcast, 2021, 24 |
 | Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
@@ -195,6 +197,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| I Can't Get Over 2024	| Producer, BBC Radio Wales, 2024 |
 | Archive On 4: Rik Mayall, Panglobal Phenomenon | Producer, BBC Radio 4, 2024 |
 | O'r Diwedd | Creative Producer, S4C, 2016-23 (c.f. Satirical Writing Credits) |
 | Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Documentaries Credits)|
@@ -215,7 +218,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
-| Independent Podcast Awards - Best Comedy Nomination - The Xennial Dome |	2024 |
+| Independent Podcast Awards - Best Comedy Nomination - The Xennial Dome / I'm So Not Over It |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
 | BBC Drama Awards - Best Comedy - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
