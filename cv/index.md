@@ -128,7 +128,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4) and Mock The Week (BBC One) and has assisted in the writing of stand-up material for tours and Edinburgh shows (2018-24).
+Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for tours and Edinburgh shows (2018-24).
 
 ## Script Editing
 This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
@@ -162,9 +162,9 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024-25 |
 | Out Of Character	| Guest, Podcast, 2024 |
 | Soundheap	| Performer, Podcast, 2021, 24 |
-| Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
 | NonCensored	| Performer, Podcast, 2022-24 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
