@@ -99,7 +99,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | | |
 |----| ----|
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
-| BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023-24 |
+| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-24 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
@@ -128,7 +128,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for tours and Edinburgh shows (2018-24).
+Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for tours, TV appearences and Edinburgh shows (2018-25).
 
 ## Script Editing
 This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
