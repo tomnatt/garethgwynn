@@ -128,7 +128,7 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for tours, TV appearences and Edinburgh shows (2018-25).
+Gareth has also assisted a number of comics prepare for panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for national tours, corporates, charity gigs, TV appearences and Edinburgh shows (2018-25).
 
 ## Script Editing
 This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
@@ -162,10 +162,10 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
 | Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024-25 |
 | Out Of Character	| Guest, Podcast, 2024 |
 | Soundheap	| Performer, Podcast, 2021, 24 |
-| The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
 | NonCensored	| Performer, Podcast, 2022-24 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
@@ -218,16 +218,19 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Celtic Media Festival - Best Entertainment (Sound) Nomination - I'm So Not Over It |	2025 |
+| Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2025 |
+| Golden Lobes Awards - Best Tangent Nomination - I'm So Not Over It |	2025 |
 | Independent Podcast Awards - Best Comedy Nomination - The Xennial Dome / I'm So Not Over It |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
-| BBC Drama Awards - Best Comedy - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
+| BBC Drama Awards - Best Comedy Nomination - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Beena And Amrit (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo (Script Editor) |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - O'r Diwedd 2017	|	2019 |
-| Audio Production Awards - Gethin Thomas Comedy Award – Nomination | 2018 |
+| Audio Production Awards - Gethin Thomas Comedy Award Nomination | 2018 |
 | The Radio Academy ARIAS – Best Entertainment Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 |
