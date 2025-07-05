@@ -16,7 +16,7 @@ On this page you'll find links to some of the shows I've written and presented w
 <!--## Sitcoms-->
 ### Tourist Trap
 <iframe width="400" height="500" frameborder="0" src="https://www.bbc.co.uk/programmes/p07rqrjx/player"></iframe>
-[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) was a semi-improvised sitcom for BBC One Wales - I co-wrote the show's plots with Tudur Owen and Sian Harries and also provided the voice over. A collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage and an interview detailing the writing process is available on the [BCG website](https://www.comedy.co.uk/pro/inside_track/how_we_write_tourist_trap/).
+[Tourist Trap](https://www.bbc.co.uk/iplayer/episodes/b0bmfpy5/tourist-trap) was a semi-improvised sitcom for BBC One Wales. I co-wrote the show's plots with Tudur Owen and Sian Harries and also provided the voice over. A collection of [clips](https://www.bbc.co.uk/programmes/b0bmfpy5/clips) are available on the show's webpage and an interview detailing the writing process is available on the [BCG website](https://www.comedy.co.uk/pro/inside_track/how_we_write_tourist_trap/).
 
 ### Ankle Tag
 [Ankle Tag](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide) is a radio sitcom I co-wrote with Benjamin Partridge which starred Elis James, Katy Wix and Steve Speirs. All three series are available on [BBC Sounds](https://www.bbc.co.uk/programmes/b092sfnk/episodes/guide), [Audible](https://www.audible.co.uk/pd/Ankle-Tag-Series-1-3-Audiobook/1787538923) and from [Penguin](https://www.penguin.co.uk/books/1119136/ankle-tag--series-1-3/9781787538924.html).
@@ -41,7 +41,9 @@ I produced this show for BBC Radio 4 to celebrate 50 years of Just A Minute, cut
 I was a regular presenter on BBC Radio Wales for seven years and a handful of best-bits can be found on the [BBC Radio Wales show page](https://www.bbc.co.uk/programmes/b00wt6xy/clips)
 
 ### Documentaries
-I have presented several documentaries for BBC Radio 4 and BBC Radio Wales examining Welsh identity, language, culture and politics - some of which are still available on BBC Sounds.<br>
+I have presented and produced several documentaries for BBC Radio 4 and BBC Radio Wales on a variety of subjects, some of which are still available on BBC Sounds.<br>
+* [Gareth Gwynn Hasn't Fin-](https://www.bbc.co.uk/sounds/play/m001z5x1)
+* [Rik Mayall, Panglobal Phenomenon](https://www.bbc.co.uk/sounds/play/m001zv68) 
 * [Gareth Gwynn Declares Independence From Wales](https://www.bbc.co.uk/sounds/play/m000q4dj) <!--is a two-part investigation into why towns try and declare independence, what they mean by it - and what it would really take to achieve international recognition.--><br>
 * [The Greatest Ever Faker](https://www.bbc.co.uk/programmes/b072j3fy) <!--told the story of Iolo Morganwg and was selected for the Prix Marulic International Radio Festival in Croatia, which meant it was played inside a deconsecrated church in Croatia. Or it wasn't. That's the problem with making a programme about forgery. I don't trust anything any more, [Gareth Gwynn's Little Book Of Welsh Rock](https://www.bbc.co.uk/programmes/m001gdwp) (2015) continues to cost me a fortune in records and --><br>
 * [Gareth Gwynn's Little Book Of Welsh Independence](http://www.bbc.co.uk/programmes/b03vh0c8) <!--was broadcast ahead of the Scottish Referendum and was nominated for a Celtic Media Award in the Best Documentary category.-->
