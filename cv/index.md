@@ -75,8 +75,8 @@ If you'd prefer, you can take a lot of this information in as an [interview with
 
 | | |
 |----| ----|
+| TL;DR | Writer/Performer, BBC Radio 4, 2024-25 |
 | I Can't Get Over 2024	| Writer/Presenter, BBC Radio Wales, 2024 |
-| TL;DR | Performer, BBC Radio 4, 2024 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Newsmakers | Writer, BBC Radio 4, 2023 |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
@@ -100,8 +100,8 @@ If you'd prefer, you can take a lot of this information in as an [interview with
 
 | | |
 |----| ----|
+| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-25 |
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
-| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-24 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
@@ -164,6 +164,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Cyril	| Live Show, Camden Fringe, 2025 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
 | Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024-25 |
 | Out Of Character	| Guest, Podcast, 2024 |
