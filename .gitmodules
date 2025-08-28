@@ -1,3 +1,6 @@
 [submodule "_foundation"]
 	path = _foundation
 	url = git@github.com:zurb/foundation.git
+[submodule "rupertbull"]
+	path = rupertbull
+	url = git@github.com:tomnatt/rupertbullafterdinnerspeaking.git
