@@ -25,7 +25,7 @@ On this page you'll find links to some of the shows I've written and presented w
 A brand new audio episode of [The Goodies](https://www.audible.co.uk/pd/The-Goodies-Audiobook/B07YN6FSV2), written by John-Luke Roberts and me - with Graeme Garden and Bill Oddie and based on a plot by Barnaby Eaton-Jones.
 
 ### Bull
-John-Luke Roberts and I created and wrote this sitcom starring Robert Lindsay, Maureen Lipman, Naz Osmanoglu and Claudia Jessie. This playlist includes the trailer and some best-bits and Rupert Bull's website is [still online](http://www.rupertbullafterdinnerspeaking.co.uk/index/antiques.html).
+John-Luke Roberts and I created and wrote this sitcom starring Robert Lindsay, Maureen Lipman, Naz Osmanoglu and Claudia Jessie. This playlist includes the trailer and some best-bits and Rupert Bull's website is [still online](/rupertbull/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XSKzvDheaSo?list=PLyk_nLKHU9Qm8iSwLJc_5_QmEX4_tj0TH" frameborder="0" allowfullscreen></iframe>
 
 <!--## Archive Shows-->
