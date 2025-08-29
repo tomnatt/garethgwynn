@@ -8,7 +8,7 @@ title: About Gareth Gwynn
 
 Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the writer or co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former BBC Radio Comedy department contract writer. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
 
-If you'd prefer, you can take a lot of this information in as an [interview with the British Comedy Guide](https://www.comedy.co.uk/pro/features/my-comedy-career-gareth-gwynn/) or from a chat with Alex Lynch on his [Out Of Character podcast](https://podfollow.com/out-of-character/episode/f80715212f88a37f6cbc3b2726d46b762ace96b0/) - both of which cover broadly the same ground, but in a much more palatable way.
+You can take a lot of this information in as an [interview with BCG](https://www.comedy.co.uk/pro/features/my-comedy-career-gareth-gwynn/) or from a chat with Alex Lynch on his [Out Of Character podcast](https://podfollow.com/out-of-character/episode/f80715212f88a37f6cbc3b2726d46b762ace96b0/) - both of which cover broadly the same ground, but in a much more palatable way.
 
 | | | | | | 
 |----| ----| ----| ----| ----|
@@ -75,7 +75,7 @@ If you'd prefer, you can take a lot of this information in as an [interview with
 
 | | |
 |----| ----|
-| TL;DR | Writer/Performer, BBC Radio 4, 2024-25 |
+| Too Long; Didn't Read | Writer/Performer, BBC Radio 4, 2024-25 |
 | I Can't Get Over 2024	| Writer/Presenter, BBC Radio Wales, 2024 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Newsmakers | Writer, BBC Radio 4, 2023 |
@@ -164,11 +164,12 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
-| Cyril	| Live Show, Camden Fringe, 2025 |
+| Cyril	| Work In Progress run, Camden Fringe, 2025<br>Work In Progress run, Hotel Indigo Edinburgh, 2025 |
+| Never As Funny	| Guest, Podcast, 2025 |
+| Soundheap	| Performer, Podcast, 2021, 24-25 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
 | Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024-25 |
 | Out Of Character	| Guest, Podcast, 2024 |
-| Soundheap	| Performer, Podcast, 2021, 24 |
 | NonCensored	| Performer, Podcast, 2022-24 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
