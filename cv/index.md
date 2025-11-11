@@ -100,6 +100,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
+| One Person Found This Helpful | Writer, BBC Radio 4, 2025 |
 | BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-25 |
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
@@ -164,8 +165,9 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
-| Cyril	| Work In Progress run, Camden Fringe, 2025<br>Work In Progress run, Hotel Indigo Edinburgh, 2025 |
+| The Bon Mot Podcast	| Guest, Podcast, 2025 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
+| Cyril	| Work In Progress run, Camden Fringe, 2025<br>Work In Progress run, Hotel Indigo Edinburgh, 2025 |
 | NonCensored	| Performer, Podcast, 2022-25 |
 | Never As Funny	| Guest, Podcast, 2025 |
 | Soundheap	| Performer, Podcast, 2021, 24-25 |
