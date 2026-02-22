@@ -60,7 +60,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
-| I'm So Not Over It | Presenter, Podcast, 2024-25 |
+| I'm So Not Over It | Presenter, Podcast, 2024-26 |
 | The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
@@ -165,9 +165,9 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Cyril (Currently Work In Progress)	| Performer, Stand-Up, 2025-26 |
 | The Bon Mot Podcast	| Guest, Podcast, 2025 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
-| Cyril	| Work In Progress run, Camden Fringe, 2025<br>Work In Progress run, Hotel Indigo Edinburgh, 2025 |
 | NonCensored	| Performer, Podcast, 2022-25 |
 | Never As Funny	| Guest, Podcast, 2025 |
 | Soundheap	| Performer, Podcast, 2021, 24-25 |
@@ -192,7 +192,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | Film Fandango | Guest, Podcast, 2012 |
 | Nintendo TV News | Voice Over, Future Publishing / Nintendo Wii, 2010-11 |
 | Something Else | Panellist/Contributor, BBC Radio Wales, 2010 |
-| Papa’s Got A Brand New Wigbag | Writer/Performer, Edinburgh Fringe Festival, 2010 |
+| Papa’s Got A Brand New Wigbag (Sketch Show) | Writer/Performer, Edinburgh Fringe Festival, 2010 |
 | Too Late For Breakfast | Panellist, BBC Radio 5 Live, 2009 |
 | B.A.D. Radio | Writer/Performer, GWR Bath, 2008 |
 | Funny Business | Performer, BBC 2 Wales, 2008 |
