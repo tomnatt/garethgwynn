@@ -60,7 +60,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
-| I'm So Not Over It | Presenter, Podcast, 2024-26 |
+| I'm So Not Over It | Presenter, Podcast, 2024-26 (cf. Music Radio Credits) |
 | The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
@@ -154,6 +154,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Gareth and Esyllt's Scrapbook | Regular Presenter, BBC Radio Wales, 2026 |
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
@@ -165,7 +166,9 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Cyril	- Edinburgh Fringe Festival | Performer, Stand-Up, 2026 |
 | Cyril (Currently Work In Progress)	| Performer, Stand-Up, 2025-26 |
+| International Waters | Panellist, Podcast, 2016, 2018, 2026 |
 | The Bon Mot Podcast	| Guest, Podcast, 2025 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
 | NonCensored	| Performer, Podcast, 2022-25 |
@@ -203,6 +206,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| What Just Happened? | Co-Producer, BBC Radio Wales, 2026 |
 | I Can't Get Over...	| Producer, BBC Radio Wales, 2024-25 |
 | Archive On 4: Rik Mayall, Panglobal Phenomenon | Producer, BBC Radio 4, 2024 |
 | O'r Diwedd | Creative Producer, S4C, 2016-23 (c.f. Satirical Writing Credits) |
@@ -224,6 +228,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 
 | | |
 |----| ----|
+| Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2026 |
 | Celtic Media Festival - Best Entertainment (Sound) Nomination - I'm So Not Over It |	2025 |
 | Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2025 |
 | Golden Lobes Awards - Best Tangent Nomination - I'm So Not Over It |	2025 |
