@@ -19,10 +19,10 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
+| Double Top | Script Editor, BBC Radio Wales, 2022-23, 2026 |
 | Trying | Additional Material, Apple TV, 2024 |
 | Ministry Of Happiness | Writer, BBC Radio Wales, 2023 |
 | Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
-| Double Top | Script Editor, BBC Radio Wales, 2022-23 |
 | Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 <br>Script Editor, BBC One Wales, 2021 |
 | Ankle Tag (with Benjamin Partridge) | Writer, BBC Radio 2, 2015<br>Writer, BBC Radio 4/BBC Radio Wales, 2017-20 |
 | Tourist Trap (with Sian Harries and Tudur Owen) | Writer, BBC One Wales, 2018-19  (cf. Performing Credits)<br>Writer, BBC Radio Wales, 2020 (cf. Production Credits)|
@@ -134,7 +134,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 Gareth has also assisted a number of comics prepare for panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for national tours, corporates, charity gigs, TV appearences and Edinburgh shows (2018-25).
 
 ## Script Editing
-This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
+This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section.
 
 | | |
 |----| ----|
@@ -229,6 +229,7 @@ Gareth has also produced a number of music shows including Move And Groove (BBC 
 | | |
 |----| ----|
 | Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2026 |
+| Golden Lobes Awards - Best Blooper Nomination - I'm So Not Over It |	2026 |
 | Celtic Media Festival - Best Entertainment (Sound) Nomination - I'm So Not Over It |	2025 |
 | Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2025 |
 | Golden Lobes Awards - Best Tangent Nomination - I'm So Not Over It |	2025 |
