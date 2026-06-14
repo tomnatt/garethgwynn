@@ -40,6 +40,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
+| Archive On 4: Gareth Gwynn Was Better On The Radio (Coming Soon) | Writer/Presenter, BBC Radio 4, 2026 |
 | Archive On 4: Gareth Gwynn Hasn't Fin- | Writer/Presenter, BBC Radio 4, 2024 |
 | The Now Show | Performer, BBC Radio 4, 2011-24 (cf. Topical Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -154,7 +155,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
-| Gareth and Esyllt's Scrapbook | Regular Presenter, BBC Radio Wales, 2026 |
+| Gareth and Esyllt's Scrapbook | Presenter, BBC Radio Wales, 2026 |
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
@@ -167,9 +168,8 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | | |
 |----| ----|
 | Cyril	- Edinburgh Fringe Festival | Performer, Stand-Up, 2026 |
-| Cyril (Currently Work In Progress)	| Performer, Stand-Up, 2025-26 |
 | International Waters | Panellist, Podcast, 2016, 2018, 2026 |
-| The Bon Mot Podcast	| Guest, Podcast, 2025 |
+| The Bon Mot Podcast	| Guest, Podcast, 2025-26 |
 | The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
 | NonCensored	| Performer, Podcast, 2022-25 |
 | Never As Funny	| Guest, Podcast, 2025 |
@@ -180,6 +180,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century | Guest, Podcast, 2023 |
 | The Way They Were | Guest, Podcast, 2023 |
+| An Evening Of Poetry And Jazz | Performer, Gower Festival, 2022 (c.f. Cyril) |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
@@ -225,6 +226,7 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
 ## Awards
+Well, mainly nominations if we're honest...
 
 | | |
 |----| ----|
