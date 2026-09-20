@@ -8,6 +8,8 @@ title: About Gareth Gwynn
 
 Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He is the writer or co-writer of the sitcoms *Ministry Of Happiness*, *Ankle Tag*, *Tourist Trap*, *Bull* and *The Goodies - The Big Ben Theory*. He has written for *The News Quiz*, *The Now Show*, *Have I Got News For You* and *Top Gear* and is a former BBC Radio Comedy department contract writer. This is a big list of things he's done, nominally split into categories (but not including the ones where he had to sign an NDA).
 
+You can take a lot of this information in as an [interview with BCG](https://www.comedy.co.uk/pro/features/my-comedy-career-gareth-gwynn/) or from a chat with Alex Lynch on his [Out Of Character podcast](https://podfollow.com/out-of-character/episode/f80715212f88a37f6cbc3b2726d46b762ace96b0/) - both of which cover broadly the same ground, but in a much more palatable way.
+
 | | | | | | 
 |----| ----| ----| ----| ----|
 | [Sitcom](#sitcom-writing) | [Archive And Cut-Up](#archive-and-cut-up-shows) | [Documentary](#documentaries-and-podcasts) | [Satirical](#topical-and-satirical-shows) | [Sketch/Entertainment](#sketch-and-entertainment) |
@@ -17,10 +19,10 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Double Top | Script Editor, BBC Radio Wales, 2022-23, 2026 |
 | Trying | Additional Material, Apple TV, 2024 |
 | Ministry Of Happiness | Writer, BBC Radio Wales, 2023 |
 | Lady Bigfoot | Script Editor, BBC One Wales, 2023 |
-| Double Top | Script Editor, BBC Radio Wales, 2022-23 |
 | Beena And Amrit | Script Editor, BBC Radio Wales, 2021-22 <br>Script Editor, BBC One Wales, 2021 |
 | Ankle Tag (with Benjamin Partridge) | Writer, BBC Radio 2, 2015<br>Writer, BBC Radio 4/BBC Radio Wales, 2017-20 |
 | Tourist Trap (with Sian Harries and Tudur Owen) | Writer, BBC One Wales, 2018-19  (cf. Performing Credits)<br>Writer, BBC Radio Wales, 2020 (cf. Production Credits)|
@@ -38,8 +40,9 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| Archive On 4: Gareth Gwynn Was Better On The Radio (Coming Soon) | Writer/Presenter, BBC Radio 4, 2026 |
 | Archive On 4: Gareth Gwynn Hasn't Fin- | Writer/Presenter, BBC Radio 4, 2024 |
-| The Now Show | Writer/Performer, BBC Radio 4, 2011-13, 17, 19, 21, 24 (cf. Writing Credits) |
+| The Now Show | Performer, BBC Radio 4, 2011-24 (cf. Topical Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
 | Archive On 4: Gareth Gwynn’s Alternative Archive | Writer/Presenter, BBC Radio 4, 2019 |
 | Elis James: Nabod y Teip | Writer, S4C, 2019|
@@ -58,7 +61,8 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
-| The Xennial Dome | Presenter, Podcast, 2021, 23-24 |
+| I'm So Not Over It | Presenter, Podcast, 2024-26 (cf. Music Radio Credits) |
+| The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
 | Harry Secombe - Unsung Comedian | Writer/Presenter, BBC Radio Wales, 2021 (cf. Production Credits) |
@@ -72,6 +76,8 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| I Can't Get Over...	| Writer/Presenter, BBC Radio Wales, 2024-25 (c.f. Production Credits) |
+| Too Long; Didn't Read | Writer/Performer, BBC Radio 4, 2024-25 |
 | O'r Diwedd | Writer, S4C, 2016-19, 2021-23 (c.f. Production Credits) |
 | The Newsmakers | Writer, BBC Radio 4, 2023 |
 | The Now Show | Writer, BBC Radio 4, 2009-21 (cf. Archive Credits) |
@@ -95,9 +101,10 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 
 | | |
 |----| ----|
+| One Person Found This Helpful | Writer, BBC Radio 4, 2025 |
+| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-25 |
+| Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
-| BAFTA Cymru Awards 2023 Ceremony Script | Writer, BAFTA, 2023 |
-| Radio Clonc | Writer, BBC Radio Cymru, 2022-23 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
 | Panic Room | Writer, Audible, 2022 |
 | Top Gear (Series 25-26) | Programme Associate, BBC Two, 2018-19 |
@@ -125,14 +132,14 @@ Gareth Gwynn is a comedy writer, script editor, radio presenter and producer. He
 | I'm Spartacus | Writer, BBC Radio 2, 2009 |
 | Broken Arts | Writer, BBC Radio 4, 2009 |
 
-Gareth has also assisted a number of comics prepare for corporates, charity gigs and panel shows including The News Quiz (BBC Radio 4), The Unbelievable Truth (BBC Radio 4) and Mock The Week (BBC One) and has assisted in the writing of stand-up material for tours and Edinburgh shows (2018-24).
+Gareth has also assisted a number of comics prepare for panel shows broadcast on BBC One, BBC Two, E4 and BBC Radio 4 and has assisted in the writing of stand-up material for national tours, corporates, charity gigs, TV appearences and Edinburgh shows (2018-25).
 
 ## Script Editing
-This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section
+This list deals with work on sketch, stand-up or entertainment formats. The script editing of sitcoms is dealt with in the [Sitcom Writing](#sitcom-writing) section.
 
 | | |
 |----| ----|
-| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-22 |
+| Welcome Strangers | Script Editor/Writer, BBC Radio Wales, 2020-24 |
 | Tudur Owen: United Nations Of Anglesey | Script Editor, BBC Radio 4, 2022 |
 | Felicity Ward: Appisodes | Script Editor, BBC Radio 4, 2018-20 |
 | The Sink: A Sleep Aid | Script Editor, BBC Sounds, 2020 |
@@ -148,6 +155,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
+| Gareth and Esyllt's Scrapbook | Presenter, BBC Radio Wales, 2026 |
 | BBC Radio Wales Sunday Afternoon Show | Regular Presenter, BBC Radio Wales, 2016-17 |
 | The Rhod Gilbert Show | Stand-in Presenter, BBC Radio Wales, 2012-17 |
 | BBC Radio Wales Early Sunday Morning Show | Regular Presenter, BBC Radio Wales, 2010-16 |
@@ -159,15 +167,20 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 
 | | |
 |----| ----|
-| Soundheap	| Performer, Podcast, 2021, 24 |
-| Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024 |
-| The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24 |
-| NonCensored	| Performer, Podcast, 2022-24 |
+| Cyril	- Edinburgh Fringe Festival | Performer, Stand-Up, 2026 |
+| International Waters | Panellist, Podcast, 2016, 2018, 2026 |
+| The Bon Mot Podcast	| Guest, Podcast, 2025-26 |
+| The Beef And Dairy Network	| Performer, Podcast, 2017-20, 24-25 |
+| NonCensored	| Performer, Podcast, 2022-25 |
+| Never As Funny	| Guest, Podcast, 2025 |
+| Soundheap	| Performer, Podcast, 2021, 24-25 |
+| Kiri's Comedy Club	| Guest, BBC Radio Wales, 2024-25 |
+| Out Of Character	| Guest, Podcast, 2024 |
 | Fingers On Buzzers | Guest, Podcast, 2023 |
 | Meet Me At The Museum | Guest Presenter, Podcast, 2023 |
 | The British Broadcasting Century | Guest, Podcast, 2023 |
 | The Way They Were | Guest, Podcast, 2023 |
-| Soundheap	| Performer, Podcast, 2021 |
+| An Evening Of Poetry And Jazz | Performer, Gower Festival, 2022 (c.f. Cyril) |
 | Tourist Trap | Voice Over, BBC One Wales, 2018-19 (c.f. Sitcom Writing Credits)<br>Voice Over, BBC Radio Wales, 2020 |
 | Ankle Tag | Performer, BBC Radio 4, 2020 (c.f. Sitcom Writing Credits) |
 | Funny Nation | Contributor, BBC One Wales, 2019 |
@@ -183,7 +196,7 @@ This list deals with work on sketch, stand-up or entertainment formats. The scri
 | Film Fandango | Guest, Podcast, 2012 |
 | Nintendo TV News | Voice Over, Future Publishing / Nintendo Wii, 2010-11 |
 | Something Else | Panellist/Contributor, BBC Radio Wales, 2010 |
-| Papa’s Got A Brand New Wigbag | Writer/Performer, Edinburgh Fringe Festival, 2010 |
+| Papa’s Got A Brand New Wigbag (Sketch Show) | Writer/Performer, Edinburgh Fringe Festival, 2010 |
 | Too Late For Breakfast | Panellist, BBC Radio 5 Live, 2009 |
 | B.A.D. Radio | Writer/Performer, GWR Bath, 2008 |
 | Funny Business | Performer, BBC 2 Wales, 2008 |
@@ -194,6 +207,8 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| What Just Happened? | Co-Producer, BBC Radio Wales, 2026 |
+| I Can't Get Over...	| Producer, BBC Radio Wales, 2024-25 |
 | Archive On 4: Rik Mayall, Panglobal Phenomenon | Producer, BBC Radio 4, 2024 |
 | O'r Diwedd | Creative Producer, S4C, 2016-23 (c.f. Satirical Writing Credits) |
 | Only Seeing Is Believing | Producer, BBC Radio Wales, 2022 (cf. Documentaries Credits)|
@@ -211,18 +226,25 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 Gareth has also produced a number of music shows including Move And Groove (BBC Radio Wales, 2007), The Evening Show (BBC Radio Wales, 2008) and Chris Needs (BBC Radio Wales, 2008-9).
 
 ## Awards
+Well, mainly nominations if we're honest...
 
 | | |
 |----| ----|
+| Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2026 |
+| Golden Lobes Awards - Best Blooper Nomination - I'm So Not Over It |	2026 |
+| Celtic Media Festival - Best Entertainment (Sound) Nomination - I'm So Not Over It |	2025 |
+| Golden Lobes Awards - Best Guest Nomination - I'm So Not Over It |	2025 |
+| Golden Lobes Awards - Best Tangent Nomination - I'm So Not Over It |	2025 |
+| Independent Podcast Awards - Best Comedy Nomination - The Xennial Dome / I'm So Not Over It |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2024 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Radio Clonc |	2023 |
-| BBC Drama Awards - Best Comedy - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
+| BBC Drama Awards - Best Comedy Nomination - Tudur Owen: United Nations Of Anglesey (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Beena And Amrit (Script Editor) |	2023 |
 | Celtic Media Festival - Best Radio Comedy Nomination - Tudur Owen: Zoo (Script Editor) |	2021 |
 | BAFTA Cymru - Best Entertainment Show Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - Cic Lan Yr Archif	|	2019 |
 | Celtic Media Festival - Best Comedy Nomination - O'r Diwedd 2017	|	2019 |
-| Audio Production Awards - Gethin Thomas Comedy Award – Nomination | 2018 |
+| Audio Production Awards - Gethin Thomas Comedy Award Nomination | 2018 |
 | The Radio Academy ARIAS – Best Entertainment Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | British Comedy Guide Awards – Nomination – Elis James’ Pantheon Of Heroes | 2017 |
 | Art Of Neuroscience - Honourable Mention - Exploding Brain Myths | 2016 |
