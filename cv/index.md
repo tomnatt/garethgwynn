@@ -40,7 +40,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
-| Archive On 4: Gareth Gwynn Was Better On The Radio (Coming Soon) | Writer/Presenter, BBC Radio 4, 2026 |
+| Archive On 4: Gareth Gwynn Was Better On The Radio | Writer/Presenter, BBC Radio 4, 2026 |
 | Archive On 4: Gareth Gwynn Hasn't Fin- | Writer/Presenter, BBC Radio 4, 2024 |
 | The Now Show | Performer, BBC Radio 4, 2011-24 (cf. Topical Credits) |
 | The Other Side Of Tom Jones | Writer, BBC Radio Wales, 2020 |
@@ -61,7 +61,7 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
-| I'm So Not Over It | Presenter, Podcast, 2024-26 (cf. Music Radio Credits) |
+| I'm So Not Over It | Presenter, Podcast, 2024-26 |
 | The Xennial Dome | Presenter, Podcast, 2021-24 |
 | Wittgenstein: From Austria to Abertawe | Writer/Presenter, BBC Radio Wales, 2022 |
 | Only Seeing Is Believing | Writer/Presenter, BBC Radio Wales, 2022 (cf. Production Credits) |
@@ -101,8 +101,8 @@ You can take a lot of this information in as an [interview with BCG](https://www
 
 | | |
 |----| ----|
-| One Person Found This Helpful | Writer, BBC Radio 4, 2025 |
-| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-25 |
+| BAFTA Cymru Awards Ceremony Script | Writer, BAFTA, 2023-26 |
+| One Person Found This Helpful | Writer, BBC Radio 4, 2025-26 |
 | Radio Clonc | Writer, BBC Radio Cymru, 2022-25 |
 | United Thingdom | Writer, BBC Radio 4, 2024 |
 | Noson Gomedi: Dathlu 40 | Writer, S4C, 2022 |
@@ -207,6 +207,9 @@ Gareth has also spoken at a number of events including the BBC's Sound: Now And 
 
 | | |
 |----| ----|
+| Spookathon | Co-Producer, BBC Radio Wales, 2026 |
+| The One Planet Show | Showrunner, Live Pilot, 2026 |
+| Y Niwl | Development Producer, S4C, 2026 |
 | What Just Happened? | Co-Producer, BBC Radio Wales, 2026 |
 | I Can't Get Over...	| Producer, BBC Radio Wales, 2024-25 |
 | Archive On 4: Rik Mayall, Panglobal Phenomenon | Producer, BBC Radio 4, 2024 |
